@@ -5,12 +5,10 @@ require 'header.php';
     <div id="college-alert-messages" class="m-college-alerts" role="alert" aria-live="polite">
         <div class="views-element-container" id="block-views-block-global-alerts-block-1">
 
-
             <div></div>
 
         </div>
         <div class="views-element-container" id="block-views-block-global-alerts-block-2">
-
 
             <div>
                 <div id="college-alert-messages" class="m-college-alerts" role="alert" aria-live="polite">
@@ -22,9 +20,7 @@ require 'header.php';
                                 <h2 class="m-global-alert__title"><span class="u-sr-only">Alert: </span></h2>
                                 <div class="c-wysiwyg-section">
 
-
                                     <p>No alerts</p>
-
 
                                 </div>
                                 <p class="m-global-alert__date">Last Updated: March 27, 2:00pm</p>
@@ -95,8 +91,6 @@ require 'header.php';
                                                 alt="" /></noscript>
                                     </picture>
 
-
-
                                 </div>
 
                                 <div class="c-ambient-video__video">
@@ -105,7 +99,6 @@ require 'header.php';
                                 </div>
 
                                 <div class="c-ambient-video__toggle">
-
 
                                     <button class="c-ambient-video-button is-playing js-ambient-video-toggle "
                                         aria-label="Pause Video">
@@ -125,12 +118,9 @@ require 'header.php';
                                         </span>
                                     </button>
 
-
-
                                 </div>
                             </div>
                         </div>
-
 
                     </div>
 
@@ -175,8 +165,6 @@ require 'header.php';
                                     </nav>
                                 </div>
 
-
-
                             </div>
 
                             <div id="overview"
@@ -189,7 +177,6 @@ require 'header.php';
 
                                     "
                                 </p>
-
 
                                 <div class="c-wysiwyg-section ">
 
@@ -217,7 +204,6 @@ require 'header.php';
                     <section id="liberal-arts-sciences"
                         class="o-two-block  o-two-block--hidden-title  c-panel--pad--large m-two-block-content">
 
-
                         <div class="o-container-fluid ">
 
                             <h2 class="u-sr-only">
@@ -237,8 +223,6 @@ require 'header.php';
                                         </h3>
 
                                         <div class="c-link-block__content u-content-pad--md">
-
-
 
                                             During weekdays, students sit under
                                             power plugged, anointed atmospheres, not only to be taught, but to be
@@ -307,7 +291,6 @@ require 'header.php';
                     <section id="faculty"
                         class="o-two-block  o-two-block--hidden-title  c-panel--pad--large m-two-block-content">
 
-
                         <div class="o-container-fluid ">
 
                             <h2 class="u-sr-only">
@@ -318,7 +301,6 @@ require 'header.php';
                             <div class="o-two-block__blocks">
                                 <div class="o-two-block__block o-two-block__block--left o-two-block__block--grey">
 
-
                                     <div class="c-link-block c-link-block--content m-two-block-content">
                                         <h3 id="group-faculty"
                                             class="c-link-block__title u-content-pad--title title-serif--large">
@@ -327,8 +309,6 @@ require 'header.php';
                                         </h3>
 
                                         <div class="c-link-block__content u-content-pad--md">
-
-
 
                                             The sheer size of Dag Heward-Mills’ calling to win the lost at any cost in
                                             every corner of the world compelled him to give much attention to training
@@ -353,7 +333,6 @@ require 'header.php';
                                             <h4 class="u-sr-only" id="c-stat-block-title-3">Statistics</h4>
                                             <ul class="c-stat-block__stats" aria-labelledby="c-stat-block-title-3">
 
-
                                                 <li class="c-stat-block__stat">
                                                     <p class="c-stat-block__stat-text u-watch">
                                                         <span class="c-stat-block__stat-data"><span class="u-sr-only">
@@ -370,7 +349,6 @@ require 'header.php';
                                                         </span>
                                                     </p>
                                                 </li>
-
 
                                                 <li class="c-stat-block__stat">
                                                     <p class="c-stat-block__stat-text u-watch">
@@ -389,7 +367,6 @@ require 'header.php';
                                                     </p>
                                                 </li>
 
-
                                                 <li class="c-stat-block__stat">
                                                     <p class="c-stat-block__stat-text u-watch">
                                                         <span class="c-stat-block__stat-data"><span class="u-sr-only">
@@ -407,7 +384,6 @@ require 'header.php';
                                                     </p>
                                                 </li>
 
-
                                                 <li class="c-stat-block__stat">
                                                     <p class="c-stat-block__stat-text u-watch">
                                                         <span class="c-stat-block__stat-data"><span class="u-sr-only">
@@ -421,21 +397,15 @@ require 'header.php';
                                                     </p>
                                                 </li>
 
-
-
                                             </ul>
                                         </div>
                                     </div>
 
-
-
                                 </div>
                             </div>
 
-
                         </div>
                     </section>
-
 
                     <section id="research" class="m-media-grid c-panel--black   ">
                         <div class="o-container-fluid c-panel--line">
@@ -444,7 +414,6 @@ require 'header.php';
                                     <div class="o-row o-row--start">
                                         <div class="c-panel__title-icon o-col-2">
                                             <span class="title-serif--xl">
-
 
                                                 <svg xmlns="http://www.w3.org/2000/svg" width="26" height="30"
                                                     viewBox="0 0 26 30">
@@ -465,8 +434,6 @@ require 'header.php';
                                                     </g>
                                                 </svg>
 
-
-
                                             </span>
                                         </div>
                                         <div class="c-panel__title o-col-9 o-col-sm-10">
@@ -484,13 +451,14 @@ require 'header.php';
                                                     The Premium Program: 9 Months, after The Standard Program <br>
                                                     The Advanced Program: 9 Months, after The Premium Program <br>
                                                     A Certificate will be obtained after each program is completed. <br>
-                                                    Pastoral Appointment will be after successful completion of the Advanced Program. <br> <br>
+                                                    Pastoral Appointment will be after successful completion of the
+                                                    Advanced Program. <br> <br>
                                                     The following subject rotations are treated in each program:
                                                 </p>
 
                                             </div>
 
-                                            <div class="c-accordion-group"  style="color: #666;">
+                                            <div class="c-accordion-group" style="color: #666;">
                                                 <h3 class="u-sr-only">
 
                                                     Other Academic Opportunities
@@ -522,9 +490,9 @@ require 'header.php';
                                                             aria-hidden="true">
                                                             <div
                                                                 class="c-accordion-item__panel-inner c-wysiwyg-section">
-                                                                - Losing, Suffering,  Sacrificing And Dying<br>
-- The Art Of Ministry <br>
-- Laikos <br>
+                                                                - Losing, Suffering, Sacrificing And Dying<br>
+                                                                - The Art Of Ministry <br>
+                                                                - Laikos <br>
                                                             </div>
                                                         </div>
                                                     </li>
@@ -558,16 +526,13 @@ require 'header.php';
 
                                                                 <p>
                                                                     - The Calling (Many Are Called) <br>
-- The Hearing (The Art Of Hearing) <br>
-- The Following (The Art Of Following) <br>
+                                                                    - The Hearing (The Art Of Hearing) <br>
+                                                                    - The Following (The Art Of Following) <br>
                                                                 </p>
-
-
 
                                                             </div>
                                                         </div>
                                                     </li>
-
 
                                                     <li class="c-accordion-item">
                                                         <h4>
@@ -597,19 +562,15 @@ require 'header.php';
                                                             <div
                                                                 class="c-accordion-item__panel-inner c-wysiwyg-section">
 
-
                                                                 <p>
                                                                     - What It Means To Become A Shepherd <br>
-- The Art Of Shepherding <br>
-- Transform Your Pastoral Ministry
+                                                                    - The Art Of Shepherding <br>
+                                                                    - Transform Your Pastoral Ministry
                                                                 </p>
-
-
 
                                                             </div>
                                                         </div>
                                                     </li>
-
 
                                                     <li class="c-accordion-item">
                                                         <h4>
@@ -643,13 +604,13 @@ require 'header.php';
 
                                                                 <p>
                                                                     - Loyalty & Disloyalty <br>
-- Those Who Forget <br>
-- Those Who Accuse <br>
-- Those Who Are Ignorant <br>
-- Those Who Are Dangerous Sons <br>
-- Those Who Pretend <br>
-- Those Who Leave You <br>
-- Ministerial Ethics
+                                                                    - Those Who Forget <br>
+                                                                    - Those Who Accuse <br>
+                                                                    - Those Who Are Ignorant <br>
+                                                                    - Those Who Are Dangerous Sons <br>
+                                                                    - Those Who Pretend <br>
+                                                                    - Those Who Leave You <br>
+                                                                    - Ministerial Ethics
                                                                 </p>
 
 
@@ -657,7 +618,6 @@ require 'header.php';
                                                             </div>
                                                         </div>
                                                     </li>
-
 
                                                     <li class="c-accordion-item">
                                                         <h4>
@@ -688,13 +648,13 @@ require 'header.php';
                                                             <div
                                                                 class="c-accordion-item__panel-inner c-wysiwyg-section">
 
-
                                                                 <p>
-                                                                    - Why Non-Tithing Christians Become Poor And Why Tithing Christians Become Rich <br>
-- He That Hath, To Him Shall Be Given, And To Him That Hath Not, From Him Shall Be Taken Even That Which He Hath
+                                                                    - Why Non-Tithing Christians Become Poor And Why
+                                                                    Tithing Christians Become Rich <br>
+                                                                    - He That Hath, To Him Shall Be Given, And To Him
+                                                                    That Hath Not, From Him Shall Be Taken Even That
+                                                                    Which He Hath
                                                                 </p>
-
-
 
                                                             </div>
                                                         </div>
@@ -704,7 +664,7 @@ require 'header.php';
                                                             <button
                                                                 class="c-accordion-item__button _accordion-toggle title-serif--small"
                                                                 aria-expanded="false"
-                                                                data-targetid="enroll-at-affiliated-institutions"
+                                                                data-targetid="marriage-councelling"
                                                                 data-closedelay="10">
 
 
@@ -722,7 +682,7 @@ require 'header.php';
                                                             </button>
                                                         </h4>
 
-                                                        <div id="enroll-at-affiliated-institutions"
+                                                        <div id="marriage-councelling"
                                                             class="c-accordion-item__panel _accordion-panel"
                                                             aria-hidden="true">
                                                             <div
@@ -743,7 +703,7 @@ require 'header.php';
                                                             <button
                                                                 class="c-accordion-item__button _accordion-toggle title-serif--small"
                                                                 aria-expanded="false"
-                                                                data-targetid="enroll-at-affiliated-institutions"
+                                                                data-targetid="church-growth"
                                                                 data-closedelay="10">
 
 
@@ -761,7 +721,7 @@ require 'header.php';
                                                             </button>
                                                         </h4>
 
-                                                        <div id="enroll-at-affiliated-institutions"
+                                                        <div id="church-growth"
                                                             class="c-accordion-item__panel _accordion-panel"
                                                             aria-hidden="true">
                                                             <div
@@ -770,11 +730,9 @@ require 'header.php';
 
                                                                 <p>
                                                                     - Church Planting <br>
-- The Mega Church <br>
-- Church Growth
+                                                                    - The Mega Church <br>
+                                                                    - Church Growth
                                                                 </p>
-
-
 
                                                             </div>
                                                         </div>
@@ -784,7 +742,7 @@ require 'header.php';
                                                             <button
                                                                 class="c-accordion-item__button _accordion-toggle title-serif--small"
                                                                 aria-expanded="false"
-                                                                data-targetid="enroll-at-affiliated-institutions"
+                                                                data-targetid="Evangelism"
                                                                 data-closedelay="10">
 
 
@@ -802,7 +760,7 @@ require 'header.php';
                                                             </button>
                                                         </h4>
 
-                                                        <div id="enroll-at-affiliated-institutions"
+                                                        <div id="Evangelism"
                                                             class="c-accordion-item__panel _accordion-panel"
                                                             aria-hidden="true">
                                                             <div
@@ -811,9 +769,9 @@ require 'header.php';
 
                                                                 <p>
                                                                     - Blood Power <br>
-- Anagkazo <br>
-- Tell Them <br>
-- How To Preach The Gospel <br>
+                                                                    - Anagkazo <br>
+                                                                    - Tell Them <br>
+                                                                    - How To Preach The Gospel <br>
                                                                 </p>
 
 
@@ -826,7 +784,7 @@ require 'header.php';
                                                             <button
                                                                 class="c-accordion-item__button _accordion-toggle title-serif--small"
                                                                 aria-expanded="false"
-                                                                data-targetid="enroll-at-affiliated-institutions"
+                                                                data-targetid="demonology"
                                                                 data-closedelay="10">
 
 
@@ -844,7 +802,7 @@ require 'header.php';
                                                             </button>
                                                         </h4>
 
-                                                        <div id="enroll-at-affiliated-institutions"
+                                                        <div id="demonology"
                                                             class="c-accordion-item__panel _accordion-panel"
                                                             aria-hidden="true">
                                                             <div
@@ -866,7 +824,7 @@ require 'header.php';
                                                             <button
                                                                 class="c-accordion-item__button _accordion-toggle title-serif--small"
                                                                 aria-expanded="false"
-                                                                data-targetid="enroll-at-affiliated-institutions"
+                                                                data-targetid="operating-in-the-anointing"
                                                                 data-closedelay="10">
 
 
@@ -884,7 +842,7 @@ require 'header.php';
                                                             </button>
                                                         </h4>
 
-                                                        <div id="enroll-at-affiliated-institutions"
+                                                        <div id="operating-in-the-anointing"
                                                             class="c-accordion-item__panel _accordion-panel"
                                                             aria-hidden="true">
                                                             <div
@@ -895,7 +853,8 @@ require 'header.php';
                                                                     - Sweet Influences Of The Anointing <br>
                                                                     - Steps To The Anointing <br>
                                                                     - Catch The Anointing <br>
-                                                                    - Amplify Your Ministry With Miracles, Signs And Wonders <br>
+                                                                    - Amplify Your Ministry With Miracles, Signs And
+                                                                    Wonders <br>
                                                                     - The Anointed And His Anointing <br>
                                                                 </p>
 
@@ -909,7 +868,7 @@ require 'header.php';
                                                             <button
                                                                 class="c-accordion-item__button _accordion-toggle title-serif--small"
                                                                 aria-expanded="false"
-                                                                data-targetid="enroll-at-affiliated-institutions"
+                                                                data-targetid="charismatic-doctrines"
                                                                 data-closedelay="10">
 
 
@@ -927,7 +886,7 @@ require 'header.php';
                                                             </button>
                                                         </h4>
 
-                                                        <div id="enroll-at-affiliated-institutions"
+                                                        <div id="charismatic-doctrines"
                                                             class="c-accordion-item__panel _accordion-panel"
                                                             aria-hidden="true">
                                                             <div
@@ -936,10 +895,11 @@ require 'header.php';
 
                                                                 <p>
                                                                     - Salvation (Greater Love) <br>
-- Spirituality (What It Means To Be A Strong Christian) <br>
-- Faith (Name It, Claim It, Take It) <br>
-- Humility (Formula For Humility) <br>
-- The Bible <br>
+                                                                    - Spirituality (What It Means To Be A Strong
+                                                                    Christian) <br>
+                                                                    - Faith (Name It, Claim It, Take It) <br>
+                                                                    - Humility (Formula For Humility) <br>
+                                                                    - The Bible <br>
                                                                 </p>
 
 
@@ -952,7 +912,7 @@ require 'header.php';
                                                             <button
                                                                 class="c-accordion-item__button _accordion-toggle title-serif--small"
                                                                 aria-expanded="false"
-                                                                data-targetid="enroll-at-affiliated-institutions"
+                                                                data-targetid="applied-leadership"
                                                                 data-closedelay="10">
 
 
@@ -970,7 +930,7 @@ require 'header.php';
                                                             </button>
                                                         </h4>
 
-                                                        <div id="enroll-at-affiliated-institutions"
+                                                        <div id="applied-leadership"
                                                             class="c-accordion-item__panel _accordion-panel"
                                                             aria-hidden="true">
                                                             <div
@@ -993,11 +953,11 @@ require 'header.php';
                                                             <button
                                                                 class="c-accordion-item__button _accordion-toggle title-serif--small"
                                                                 aria-expanded="false"
-                                                                data-targetid="enroll-at-affiliated-institutions"
+                                                                data-targetid="church-history"
                                                                 data-closedelay="10">
 
 
-                                                                Principles Of Financial Management In Ministry
+                                                                Church History
 
                                                                 <span class="c-accordion-item__icon"
                                                                     aria-hidden="true"><svg
@@ -1011,7 +971,7 @@ require 'header.php';
                                                             </button>
                                                         </h4>
 
-                                                        <div id="enroll-at-affiliated-institutions"
+                                                        <div id="church-history"
                                                             class="c-accordion-item__panel _accordion-panel"
                                                             aria-hidden="true">
                                                             <div
@@ -1019,8 +979,7 @@ require 'header.php';
 
 
                                                                 <p>
-                                                                    - Why Non-Tithing Christians Become Poor And Why Tithing Christians Become Rich <br>
-- He That Hath, To Him Shall Be Given, And To Him That Hath Not, From Him Shall Be Taken Even That Which He Hath
+                                                                    <!-- Courses goes here -->
                                                                 </p>
 
 

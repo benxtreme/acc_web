@@ -38,7 +38,7 @@
                             <a href="academics.php">Academics</a>
                         </li>
                         <li>
-                            <a href="#">Life at Anagkazo</a>
+                            <a href="anagkazo-life.php">Life at Anagkazo</a>
                         </li>
                     </ul>
                     <h2 id="primary-nav-toggle-title" class="u-sr-only">Menu and Search</h2>
@@ -225,14 +225,14 @@
                         </li>
                         <li>
                             <h3 class="m-additional-nav__pages-title">
-                                <a href="life-at-harvard.html" id="nav-group-life-at-harvard--2"
-                                    class="title-serif--small">Life at Harvard</a>
+                                <a href="anagkazo-life.php" id="nav-group-life-at-harvard--2"
+                                    class="title-serif--small">Life at Anagkazo</a>
                             </h3>
                             <button class="m-additional-nav__submenu-toggle _accordion-toggle" data-targetid="next"
                                 aria-controls="nav-group-list-life-at-harvard--2" aria-expanded="false"
                                 data-closedelay="10">
                                 <span>
-                                    <span class="u-sr-only">Toggle Life at Harvard Submenu</span>
+                                    <span class="u-sr-only">Toggle Life at Anagkazo Submenu</span>
                                     <span aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="16"
                                             height="16" viewBox="0 0 16 16">
                                             <polygon
@@ -247,7 +247,7 @@
                                 aria-labelledby="nav-group-life-at-harvard--2">
 
                                 <li>
-                                    <a href="life-at-harvard.html" class="label-sans">Overview</a>
+                                    <a href="anagkazo-life.php" class="label-sans">Overview</a>
 
                                 </li>
                                 <li>
