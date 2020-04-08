@@ -19,7 +19,7 @@
     <header id="harvard-site-header" class="m-site-header">
         <div class="o-container-fluid">
             <div class="m-site-header__inner">
-                <a href="index.html" class="m-site-header__logo">
+                <a href="index.php" class="m-site-header__logo">
                     <img src="assets/img/logo1.png" alt="Anagkazo Bible and Ministry Training Center">
                 </a>
 
@@ -29,16 +29,13 @@
                     <h2 id="primary-navigation-title" class="u-sr-only">Primary Navigation</h2>
                     <ul class="m-site-header__primary-nav" aria-labelledby="primary-navigation-title">
                         <li>
-                            <a href="about.html">About</a>
+                            <a href="about.php">About</a>
                         </li>
                         <li>
-                            <a href="admissions.html">Admissions</a>
+                            <a href="admissions.php">Admissions</a>
                         </li>
-                        <!-- <li>
-                            <a href="financial-aid.html">Financial Aid</a>
-                        </li> -->
                         <li>
-                            <a href="academics.html">Academics</a>
+                            <a href="academics.php">Academics</a>
                         </li>
                         <li>
                             <a href="#">Life at Anagkazo</a>
@@ -91,7 +88,7 @@
 
                         <li>
                             <h3 class="m-additional-nav__pages-title">
-                                <a href="about.html" id="nav-group-about--2" class="title-serif--small">About</a>
+                                <a href="about.php" id="nav-group-about--2" class="title-serif--small">About</a>
                             </h3>
                             <button class="m-additional-nav__submenu-toggle _accordion-toggle" data-targetid="next"
                                 aria-controls="nav-group-list-about--2" aria-expanded="false" data-closedelay="10">
@@ -111,7 +108,7 @@
                                 aria-labelledby="nav-group-about--2">
 
                                 <li>
-                                    <a href="about.html" class="label-sans">Overview</a>
+                                    <a href="about.php" class="label-sans">Overview</a>
 
                                 </li>
                                 <li>
@@ -141,7 +138,7 @@
                         </li>
                         <li>
                             <h3 class="m-additional-nav__pages-title">
-                                <a href="admissions.html" id="nav-group-admissions--2"
+                                <a href="admissions.php" id="nav-group-admissions--2"
                                     class="title-serif--small">Admissions</a>
                             </h3>
                             <button class="m-additional-nav__submenu-toggle _accordion-toggle" data-targetid="next"
@@ -162,7 +159,7 @@
                                 aria-labelledby="nav-group-admissions--2">
 
                                 <li>
-                                    <a href="admissions.html" class="label-sans">Overview</a>
+                                    <a href="admissions.php" class="label-sans">Overview</a>
 
                                 </li>
                                 <li>
@@ -182,61 +179,7 @@
                         </li>
                         <li>
                             <h3 class="m-additional-nav__pages-title">
-                                <a href="financial-aid.html" id="nav-group-financial-aid--2"
-                                    class="title-serif--small">Financial Aid</a>
-                            </h3>
-                            <button class="m-additional-nav__submenu-toggle _accordion-toggle" data-targetid="next"
-                                aria-controls="nav-group-list-financial-aid--2" aria-expanded="false"
-                                data-closedelay="10">
-                                <span>
-                                    <span class="u-sr-only">Toggle Financial Aid Submenu</span>
-                                    <span aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="16"
-                                            height="16" viewBox="0 0 16 16">
-                                            <polygon
-                                                points="121 113 128 113 128 115 121 115 121 122 119 122 119 115 112 115 112 113 119 113 119 106 121 106"
-                                                transform="translate(-112 -106)" />
-                                        </svg>
-                                    </span>
-                                </span>
-                            </button>
-
-                            <ul id="nav-group-list-financial-aid--2" class="m-additional-nav__submenu-links"
-                                aria-labelledby="nav-group-financial-aid--2">
-
-                                <li>
-                                    <a href="financial-aid.html" class="label-sans">Overview</a>
-
-                                </li>
-                                <li>
-                                    <a href="financial-aid/net-price-calculator.html" class="label-sans">Net Price
-                                        Calculator</a>
-
-                                </li>
-                                <li>
-                                    <a href="financial-aid/how-aid-works.html" class="label-sans">How Aid Works</a>
-
-                                </li>
-                                <li>
-                                    <a href="financial-aid/apply-financial-aid.html" class="label-sans">Apply For
-                                        Financial Aid</a>
-
-                                </li>
-                                <li>
-                                    <a href="financial-aid/additional-funding-procedures.html"
-                                        class="label-sans">Additional Funding &amp; Procedures</a>
-
-                                </li>
-                                <li>
-                                    <a href="financial-aid/federal-disclosures.html" class="label-sans">Federal
-                                        Disclosures</a>
-
-                                </li>
-                            </ul>
-
-                        </li>
-                        <li>
-                            <h3 class="m-additional-nav__pages-title">
-                                <a href="academics.html" id="nav-group-academics--2"
+                                <a href="academics.php" id="nav-group-academics--2"
                                     class="title-serif--small">Academics</a>
                             </h3>
                             <button class="m-additional-nav__submenu-toggle _accordion-toggle" data-targetid="next"
@@ -257,7 +200,7 @@
                                 aria-labelledby="nav-group-academics--2">
 
                                 <li>
-                                    <a href="academics.html" class="label-sans">Overview</a>
+                                    <a href="academics.php" class="label-sans">Overview</a>
 
                                 </li>
                                 <li>
