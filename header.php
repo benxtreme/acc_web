@@ -40,6 +40,9 @@
                         <li>
                             <a href="anagkazo-life.php">Life at Anagkazo</a>
                         </li>
+                        <li>
+                            <a href="campus.php">Campus</a>
+                        </li>
                     </ul>
                     <h2 id="primary-nav-toggle-title" class="u-sr-only">Menu and Search</h2>
                     <ul class="m-site-header__additional-nav" aria-labelledby="primary-nav-toggle-title">
