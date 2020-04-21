@@ -9,16 +9,13 @@
                         <h3 id="site-info-links-group-1-footer" class="title-serif--small m-site-info__links-title">
                             Helpful Links</h3>
                         <ul class="m-site-info__links-list">
-                            <li><a href="contact-us.html" class="internal-link label-sans u-under-link">Contact
+                            <li><a href="contact.php" class="internal-link label-sans u-under-link">Contact
                                     Us</a>
                             </li>
-                            <li><a href="https://apply.college.harvard.edu/apply/status"
-                                    class="external-link label-sans u-under-link" target="_blank">Applicant
+                            <li><a  class="external-link label-sans u-under-link">Applicant
                                     Portal</a>
                             </li>
-                            <li><a href="admitted-students-login2083.html"
-                                    class="internal-link label-sans u-under-link">Admitted Students</a></li>
-                            <li><a href="resources/faq.html" class="internal-link label-sans u-under-link">FAQs</a>
+                            <li><a  class="internal-link label-sans u-under-link">Admitted Students</a>
                             </li>
                         </ul>
                     </nav>
@@ -26,23 +23,22 @@
                         <h3 id="site-info-links-group-2-footer" class="title-serif--small m-site-info__links-title">
                             University Resources</h3>
                         <ul class="m-site-info__links-list">
-                            <li><a href="https://registrar.fas.harvard.edu/harvard-college-academic-calendar"
-                                    class="external-link label-sans u-under-link" target="_blank">Academic
+                            <li><a 
+                                    class="external-link label-sans u-under-link">Academic
                                     Calendar</a>
                             </li>
-                            <li><a href="https://map.harvard.edu/" class="external-link label-sans u-under-link"
-                                    target="_blank">Campus Map</a></li>
+                            <li><a  class="external-link label-sans u-under-link"
+                                   >Campus Map</a></li>
                         </ul>
                     </nav>
                 </div>
                 <div class="m-site-info__locations o-col o-col-sm-md-5">
                     <h3 id="footer-addresses-footer" class="u-sr-only">Important Addresses</h3>
-                    <a href="https://map.harvard.edu/" class="m-site-info__addresses-map-link" target="blank"
+                    <a  class="m-site-info__addresses-map-link" target="blank"
                         aria-label="Visit the Harvard Campus Map">
                         <img src="sites/default/files/portal/harvard-map_1.jpg" alt="Harvard Campus Map"
                             typeof="foaf:Image" />
-                        <noscript><img src="public://portal/harvard-map_1.jpg"
-                                alt="Harvard Campus Map" /></noscript>
+                        <noscript><img src="public://portal/harvard-map_1.jpg" alt="Harvard Campus Map" /></noscript>
                     </a>
                     <div class="m-site-info__addresses">
                         <ol class="m-site-info__addresses-list" aria-labelledby="footer-addresses-footer">
@@ -50,6 +46,10 @@
                                 <address>
                                     <p><strong>Anagkazo Bible and Ministry Training Center</strong></p>
                                     <p class="label-sans"> Mampong, WR4X+64</p>
+                                    <p>abmtcrecruitment@gmail.com</p>
+                                    <p>+233557467460
+                                        or
+                                        +233594900295</p>
                                 </address>
                             </li>
                         </ol>
@@ -72,7 +72,7 @@
                                                 d="M20.125,23 L2.875,23 C1.288,23 0,21.712 0,20.125 L0,2.875 C0,1.288 1.288,0 2.875,0 L20.125,0 C21.712,0 23,1.288 23,2.875 L23,20.125 C23,21.712 21.712,23 20.125,23 Z M8.832,17.342 C14.25425,17.342 17.22125,12.8455 17.22125,8.95275 C17.22125,8.82625 17.22125,8.69975 17.2155,8.57325 C17.7905,8.15925 18.29075,7.636 18.6875,7.04375 C18.1585,7.2795 17.58925,7.43475 16.99125,7.5095 C17.60075,7.14725 18.0665,6.5665 18.29075,5.8765 C17.7215,6.21575 17.089,6.45725 16.41625,6.5895 C15.87575,6.0145 15.111,5.658 14.26575,5.658 C12.6385,5.658 11.316,6.9805 11.316,8.60775 C11.316,8.83775 11.34475,9.062 11.39075,9.2805 C8.94125,9.15975 6.76775,7.981 5.313,6.1985 C5.06,6.6355 4.91625,7.1415 4.91625,7.682 C4.91625,8.7055 5.4395,9.60825 6.22725,10.13725 C5.74425,10.12 5.29,9.98775 4.89325,9.76925 C4.89325,9.78075 4.89325,9.79225 4.89325,9.8095 C4.89325,11.2355 5.911,12.4315 7.2565,12.70175 C7.00925,12.77075 6.7505,12.80525 6.48025,12.80525 C6.2905,12.80525 6.1065,12.788 5.92825,12.7535 C6.302,13.9265 7.3945,14.7775 8.6825,14.8005 C7.6705,15.594 6.39975,16.0655 5.01975,16.0655 C4.784,16.0655 4.54825,16.054 4.31825,16.02525 C5.61775,16.85325 7.17025,17.342 8.832,17.342 Z" />
                                         </svg>
                                     </a></li>
-                                <li><a target="blank" href="https://www.facebook.com/harvardadmissions/"><svg
+                                <li><a target="blank" href="https://www.facebook.com/firstlovecenter/"><svg
                                             xmlns="http://www.w3.org/2000/svg" width="23" height="23"
                                             viewBox="0 0 23 23">
                                             <title>Facebook</title>
@@ -80,7 +80,7 @@
                                                 d="M21.7310345,0 L1.26896552,0 C0.568135214,-4.29134794e-17 8.58269588e-17,0.568135214 0,1.26896552 L0,21.7310345 C8.58269588e-17,22.4318648 0.568135214,23 1.26896552,23 L12.2931034,23 L12.2931034,14.1053448 L9.29913793,14.1053448 L9.29913793,10.6236207 L12.2931034,10.6236207 L12.2931034,8.06189655 C12.2931034,5.09172414 14.1093103,3.4737931 16.7582759,3.4737931 C17.650943,3.47184637 18.5430948,3.51685106 19.4310345,3.60862069 L19.4310345,6.71362069 L17.6068966,6.71362069 C16.1634483,6.71362069 15.8818966,7.39568966 15.8818966,8.40293103 L15.8818966,10.6196552 L19.3318966,10.6196552 L18.8837931,14.1013793 L15.862069,14.1013793 L15.862069,23 L21.7310345,23 C22.4318648,23 23,22.4318648 23,21.7310345 L23,1.26896552 C23,0.568135214 22.4318648,4.29134794e-17 21.7310345,0 Z" />
                                         </svg>
                                     </a></li>
-                                <li><a target="blank" href="https://www.instagram.com/harvard_admissions/"><svg
+                                <li><a target="blank" href="https://www.instagram.com/firstlovecenter/"><svg
                                             xmlns="http://www.w3.org/2000/svg" width="23" height="23"
                                             viewBox="0 0 23 23">
                                             <title>Instagram</title>
@@ -110,12 +110,12 @@
                         <nav aria-labelledby="footer-legal-title--2" class="m-site-info__legal">
                             <h3 id="footer-legal-title--2" class="u-sr-only">Legal Links</h3>
                             <ul>
-                                <li><a href="https://www.harvard.edu/privacy-statement" class="external-link"
-                                        target="_blank">Privacy</a></li>
-                                <li><a href="https://dmca.harvard.edu/pages/annual-copyright-disclosure"
-                                        class="external-link" target="_blank">Copyright Disclosure</a></li>
-                                <li><a href="https://accessibility.harvard.edu/" class="external-link"
-                                        target="_blank">Accessibility</a></li>
+                                <li><a class="external-link"
+                                       >Privacy</a></li>
+                                <li><a 
+                                        class="external-link">Copyright Disclosure</a></li>
+                                <li><a class="external-link"
+                                       >Accessibility</a></li>
                             </ul>
                         </nav>
 
@@ -125,7 +125,7 @@
 
                     </div>
                     <div class="m-site-info__brand">
-                        <a href="#" class="m-site-info__logo">
+                        <a  class="m-site-info__logo">
                             <img src="assets/img/logo1.png" alt="Anagkazo Logo">
                         </a>
 

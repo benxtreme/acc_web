@@ -1,9 +1,7 @@
 <?php 
 require 'header.php';
-?>
-    <!-- main content goes here -->
 
+include 'about.php';
 
-<?php 
 require 'footer.php';
 ?>

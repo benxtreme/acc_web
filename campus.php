@@ -4,21 +4,6 @@ require 'header.php';
 
 
 <main id="main-content">
-    <div id="college-alert-messages" class="m-college-alerts" role="alert" aria-live="polite">
-        <div class="views-element-container" id="block-views-block-global-alerts-block-1">
-
-
-            <div></div>
-
-        </div>
-        <div class="views-element-container" id="block-views-block-global-alerts-block-2">
-
-
-            <div></div>
-
-        </div>
-
-    </div>
     <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
         <div id="block-harvard-college-content">
 
@@ -94,7 +79,7 @@ require 'header.php';
                                             </li>
                                             <li>
                                                 <a class="js-smooth-anchor" href="#prayer-garden">
-                                                    Prayer Garden
+                                                    100% Answered Prayer Garden
                                                 </a>
                                             </li>
                                             <li>
@@ -122,29 +107,6 @@ require 'header.php';
                                 </div>
 
 
-
-                            </div>
-
-                            <div id="overview"
-                                class="page-header__content-lead o-two-block__block o-two-block__block--right o-two-block__block--white">
-                                <h2 class="u-sr-only">
-
-                                    Overview
-                                </h2>
-                                <p class="page-header__lead-paragraph">
-
-                                    Living in History
-                                </p>
-
-
-                                <div class="c-wysiwyg-section ">
-
-
-                                    <p>From the American Revolution to the latest breakthroughs in science and
-                                        technology, Harvard's iconic campus has been the site of transformative moments
-                                        in history both large and small.</p>
-
-                                </div>
 
                             </div>
 
@@ -228,36 +190,13 @@ require 'header.php';
                                             <h2 class="m-media-grid__title title-serif--xl "
                                                 id="m-media-grid-title-why-harvard">
 
-                                                The Prayer Gardens
+                                                The 100% Answered Prayer Gardens
                                             </h2>
                                             <div class="m-media-grid__subtitle">
 
-                                                Discover what makes Harvard the standard for liberal arts and sciences
-                                                education. From our unparalleled academics to our revolutionary
-                                                financial aid, we strive to offer the best resources to the next
-                                                generation of leaders.
+                                              " Pray without ceasing "
                                             </div>
                                             <div class="m-media-grid__cta">
-
-
-
-                                                <div
-                                                    class="c-button--link-wrapper c-button c-button--on-color c-button--with-icon">
-
-
-                                                    <a href="admissions/why-harvard.html">Read more about choosing
-                                                        Harvard</a>
-
-                                                    <span class="c-button__icon" aria-hidden="true">
-                                                        <svg width="16px" height="16px" viewBox="0 0 16 16"
-                                                            version="1.1" xmlns="http://www.w3.org/2000/svg"
-                                                            xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                            <path
-                                                                d="M13.2928928,8 L9.26520022,3.97230743 L9.972307,3.26520065 L15.2100737,8.50296733 L9.96639725,13.6597176 L9.26522492,12.9467258 L13.2784797,9 L0,9 L0,8 L13.2928928,8 Z">
-                                                            </path>
-                                                        </svg>
-                                                    </span>
-                                                </div>
 
                                             </div>
                                         </div>
@@ -266,8 +205,6 @@ require 'header.php';
 
                                 <ul aria-labelledby="m-media-grid-title-why-harvard" class="c-teaser-list--black">
                                     <li class="m-media-grid__item">
-
-
 
                                         <figure class="c-media c-media--wysiwyg_inline">
                                             <div
@@ -307,9 +244,9 @@ require 'header.php';
 
 
                                                 <img src="assets/img/wedding_chapel.jpg" width="800" height="533"
-                                                    alt="The Wedding Chapel" typeof="foaf:Image" />
+                                                    alt="The Greater Love Chapel" typeof="foaf:Image" />
                                                 <noscript><img src="assets/img/wedding_chapel.jpg"
-                                                        alt="The Wedding Chapel" /></noscript>
+                                                        alt="The Greater Love Chapel" /></noscript>
 
 
 
@@ -320,11 +257,11 @@ require 'header.php';
                                                 class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
                                                 <p><strong>
 
-                                                        Wedding Chapel
+                                                        Greater Love Chapel
                                                     </strong></p>
                                                 <p>
 
-                                                    The Wedding Chapel located in the Prayer gardens in Anagkazo
+                                                    The Greater Love Chapel located in the Prayer gardens in Anagkazo
                                                     <em></em></p>
                                             </figcaption>
                                         </figure>
@@ -371,9 +308,9 @@ require 'header.php';
 
 
                                                 <img src="assets/img/side_wedding.jpg" width="800" height="800"
-                                                    alt="The side view of the Wedding chapel" typeof="foaf:Image" />
+                                                    alt="The side view of the Greater Love Chapel" typeof="foaf:Image" />
                                                 <noscript><img src="assets/img/side_wedding.jpg"
-                                                        alt="The side view of the Wedding chapel" /></noscript>
+                                                        alt="The side view of the Greater Love Chapel" /></noscript>
 
 
 
@@ -384,11 +321,11 @@ require 'header.php';
                                                 class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
                                                 <p><strong>
 
-                                                        The Wedding Chapel
+                                                        The Greater Love Chapel
                                                     </strong></p>
                                                 <p>
 
-                                                    The side view of the wedding chapel in the prayer gardens
+                                                    The side view of the Greater Love Chapel in the prayer gardens
                                                     <em></em></p>
                                             </figcaption>
                                         </figure>
@@ -420,9 +357,7 @@ require 'header.php';
                                     </h2>
                                     <p class="m-billboard__body ">
 
-                                        From the Harvard Art Museums—contained in Renzo Piano&#039;s stunning building
-                                        that is itself a work of art—to the natural beauty of the Arnold Arboretum, art,
-                                        history, science, and culture are always on display at Harvard’s many museums.
+                                        The Library of Anointing is a Christian Centre for Historic Research Into World Evangelism and Global Missions
                                     </p>
 
 
@@ -557,173 +492,21 @@ require 'header.php';
                                             <h2 class="m-media-grid__title title-serif--xl "
                                                 id="m-media-grid-title-why-harvard">
 
-                                                Lecture Halls
+                                                Gallery
                                             </h2>
                                             <div class="m-media-grid__subtitle">
 
-                                                Discover what makes Harvard the standard for liberal arts and sciences
-                                                education. From our unparalleled academics to our revolutionary
-                                                financial aid, we strive to offer the best resources to the next
-                                                generation of leaders.
+                                                The Gallery shows the different aspects of Bishop Dag Heward-Mills Ministries. 
                                             </div>
                                             <div class="m-media-grid__cta">
 
-
-
-                                                <div
-                                                    class="c-button--link-wrapper c-button c-button--on-color c-button--with-icon">
-
-
-                                                    <a href="admissions/why-harvard.html">Read more about choosing
-                                                        Harvard</a>
-
-                                                    <span class="c-button__icon" aria-hidden="true">
-                                                        <svg width="16px" height="16px" viewBox="0 0 16 16"
-                                                            version="1.1" xmlns="http://www.w3.org/2000/svg"
-                                                            xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                            <path
-                                                                d="M13.2928928,8 L9.26520022,3.97230743 L9.972307,3.26520065 L15.2100737,8.50296733 L9.96639725,13.6597176 L9.26522492,12.9467258 L13.2784797,9 L0,9 L0,8 L13.2928928,8 Z">
-                                                            </path>
-                                                        </svg>
-                                                    </span>
-                                                </div>
 
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
-                                <ul aria-labelledby="m-media-grid-title-why-harvard" class="c-teaser-list--black">
-                                    <li class="m-media-grid__item">
-
-
-
-                                        <figure class="c-media c-media--wysiwyg_inline">
-                                            <div
-                                                class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
-
-
-                                                <img src="assets/img/class4.jpg" width="800" height="407"
-                                                    alt="Prayer gardens front" typeof="foaf:Image" />
-                                                <noscript><img src="assets/img/class4.jpg"
-                                                        alt="Prayer gardens front" /></noscript>
-
-
-
-                                            </div>
-
-
-                                            <figcaption
-                                                class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
-                                                <p><strong>
-
-                                                        Entrance
-                                                    </strong></p>
-                                                <p>
-
-                                                    The prayer gardens entrance
-                                                    <em></em></p>
-                                            </figcaption>
-                                        </figure>
-                                    </li>
-                                    <li class="m-media-grid__item">
-
-
-
-                                        <figure class="c-media c-media--wysiwyg_inline">
-                                            <div
-                                                class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
-
-
-                                                <img src="assets/img/class2.jpg" width="800" height="533"
-                                                    alt="The Wedding Chapel" typeof="foaf:Image" />
-                                                <noscript><img src="assets/img/wedding_chapel.jpg"
-                                                        alt="The Wedding Chapel" /></noscript>
-
-
-
-                                            </div>
-
-
-                                            <figcaption
-                                                class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
-                                                <p><strong>
-
-                                                        Wedding Chapel
-                                                    </strong></p>
-                                                <p>
-
-                                                    The Wedding Chapel located in the Prayer gardens in Anagkazo
-                                                    <em></em></p>
-                                            </figcaption>
-                                        </figure>
-                                    </li>
-                                    <li class="m-media-grid__item">
-
-
-
-                                        <figure class="c-media c-media--wysiwyg_inline">
-                                            <div
-                                                class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
-
-
-                                                <img src="assets/img/class1.jpg" width="800" height="533"
-                                                    alt="Prayer garden tree" typeof="foaf:Image" />
-                                                <noscript><img src="assets/img/gardens_trees.jpg"
-                                                        alt="Prayer garden tree" /></noscript>
-
-
-
-                                            </div>
-
-
-                                            <figcaption
-                                                class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
-                                                <p><strong>
-
-                                                        Gardens
-                                                    </strong></p>
-                                                <p>
-
-                                                    The prayer gardens view facing the lodges
-                                                    <em></em></p>
-                                            </figcaption>
-                                        </figure>
-                                    </li>
-                                    <li class="m-media-grid__item">
-
-
-
-                                        <figure class="c-media c-media--wysiwyg_inline">
-                                            <div
-                                                class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
-
-
-                                                <img src="assets/img/class3.jpg" width="800" height="800"
-                                                    alt="The side view of the Wedding chapel" typeof="foaf:Image" />
-                                                <noscript><img src="assets/img/class3.jpg"
-                                                        alt="The side view of the Wedding chapel" /></noscript>
-
-
-
-                                            </div>
-
-
-                                            <figcaption
-                                                class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
-                                                <p><strong>
-
-                                                        The Wedding Chapel
-                                                    </strong></p>
-                                                <p>
-
-                                                    The side view of the wedding chapel in the prayer gardens
-                                                    <em></em></p>
-                                            </figcaption>
-                                        </figure>
-                                    </li>
-
-                                </ul>
+                               
                             </div>
                     </section>
 

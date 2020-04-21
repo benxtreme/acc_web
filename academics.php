@@ -2,60 +2,6 @@
 require 'header.php';
 ?>
 <main id="main-content">
-    <div id="college-alert-messages" class="m-college-alerts" role="alert" aria-live="polite">
-        <div class="views-element-container" id="block-views-block-global-alerts-block-1">
-
-            <div></div>
-
-        </div>
-        <div class="views-element-container" id="block-views-block-global-alerts-block-2">
-
-            <div>
-                <div id="college-alert-messages" class="m-college-alerts" role="alert" aria-live="polite">
-
-                    <div id="alert-303176" class="m-global-alert m-global-alert--open m-global-alert--parchment">
-                        <div id="alert-303176-full-content" class="m-global-alert__full _u-parchment" aria-hidden="true"
-                            tabindex="0">
-                            <div class="m-global-alert__content">
-                                <h2 class="m-global-alert__title"><span class="u-sr-only">Alert: </span></h2>
-                                <div class="c-wysiwyg-section">
-
-                                    <p>No alerts</p>
-
-                                </div>
-                                <p class="m-global-alert__date">Last Updated: March 27, 2:00pm</p>
-                            </div>
-                            <div class="m-global-alert__button">
-
-
-                                <button class="c-button--plain c-button--plain--transparent js-alert-button"
-                                    aria-expanded="true">Close <span class="u-sr-only">Alert</span></button>
-                            </div>
-                        </div>
-                        <div class="m-global-alert__teaser _u-parchment">
-                            <h2 class="m-global-alert__teaser-title">
-                                <button id="alert-303176-teaser-button"
-                                    class="js-alert-button m-global-alert__teaser-button" aria-expanded="false">
-                                    <span class="u-sr-only">Open Alert: </span>No Alerts
-                                    <span class="m-global-alert__teaser-icon" aria-hidden="true"><svg
-                                            xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                                            viewBox="0 0 16 16">
-                                            <polygon
-                                                points="121 113 128 113 128 115 121 115 121 122 119 122 119 115 112 115 112 113 119 113 119 106 121 106"
-                                                transform="translate(-112 -106)" />
-                                        </svg>
-                                    </span>
-                                </button>
-                            </h2>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-
-    </div>
     <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
         <div id="block-harvard-college-content">
 
@@ -94,8 +40,8 @@ require 'header.php';
                                 </div>
 
                                 <div class="c-ambient-video__video">
-                                    <video class="c-ambient-video__video-file" src="assets/vid/banner_aca_1.mp4"
-                                        autoplay muted loop playsinline aria-hidden="true"></video>
+                                    <img class="c-ambient-video__video-file" src="assets/img/aca_banner.jpg"
+                                       aria-hidden="true"></img>
                                 </div>
 
                                 <div class="c-ambient-video__toggle">
@@ -175,19 +121,13 @@ require 'header.php';
                                 </h2>
                                 <p class="page-header__lead-paragraph">
 
-                                    "
+                                    Fulfill Your Ministry
                                 </p>
 
                                 <div class="c-wysiwyg-section ">
 
 
-                                    <p>As a highly esteemed Bible School, The education that you receive here is
-                                        definitely unbeatable. Lecturers are, for the most part, incredibly
-                                        knowledgeable and care about students. The lectures are great. So, what are you
-                                        waiting for? Stake a claim
-                                        and learn from those who challenge it. Ask a complex question and grow from the
-                                        process of answering it. Master the subjects you love, but never forget to
-                                        explore the unfamiliar terrain that lies just beyond your comfort zone.</p>
+                                    <p>Harness your curiosity and learn about your calling. Our various programs will help provide the training to accomplish your mission.</p>
 
                                 </div>
 
@@ -212,51 +152,14 @@ require 'header.php';
                             </h2>
 
                             <div class="o-two-block__blocks">
-                                <div class="o-two-block__block o-two-block__block--left o-two-block__block--grey">
-
-
-                                    <div class="c-link-block c-link-block--content m-two-block-content">
-                                        <h3 id="group-liberal-arts-sciences"
-                                            class="c-link-block__title u-content-pad--title title-serif--large">
-
-                                            Lectures
-                                        </h3>
-
-                                        <div class="c-link-block__content u-content-pad--md">
-
-                                            During weekdays, students sit under
-                                            power plugged, anointed atmospheres, not only to be taught, but to be
-                                            imparted on as well.
-
-                                            At the end of each subject rotation, students are tested in exams before
-                                            they move on to the next rotation. From time to time, our Father Bishop
-                                            Dag Heward-Mills pops in to emphasize on key areas that he knows will really
-                                            help us do well on the field...What a blessing!
-
-                                        </div>
-
-                                    </div>
-
-                                </div>
-
-                                <div class="o-two-block__block o-two-block__block--right ">
+                                <div class="o-two-block__block o-two-block__block--left ">
 
                                     <div class="c-teaser-medium">
-                                        <a href="life-at-harvard/student-stories/how-do-i-choose-major-harvard.html"
+                                        <a
                                             class="c-teaser-medium__link">
                                             <div class="c-teaser-medium__header c-teaser-header u-watch">
-                                                <h3 class="title-serif--medium c-teaser-medium__title"><span>How do I
-                                                        choose a program at ABMTC?</span>
+                                                <h3 class="title-serif--medium c-teaser-medium__title"><span>BMCDR</span>
                                                 </h3>
-                                                <span class="c-teaser-medium__author label-sans-small"><span
-                                                        class="u-sr-only">Author: </span>
-
-                                                    <span>Student name</span>
-                                                    <span class="u-sr-only">Class of </span>
-
-                                                    '20
-
-                                                </span>
 
                                                 <span class="c-teaser-medium__arrow" aria-hidden="true"><svg
                                                         xmlns="http://www.w3.org/2000/svg" width="16" height="11"
@@ -283,6 +186,34 @@ require 'header.php';
                                     </div>
 
                                 </div>
+                                <div class="o-two-block__block o-two-block__block--right o-two-block__block--grey">
+
+
+                                    <div class="c-link-block c-link-block--content m-two-block-content">
+                                        <h3 id="group-liberal-arts-sciences"
+                                            class="c-link-block__title u-content-pad--title title-serif--large">
+
+                                            Lectures
+                                        </h3>
+
+                                        <div class="c-link-block__content u-content-pad--md">
+
+                                            During weekdays, students sit under
+                                            power plugged, anointed atmospheres, not only to be taught, but to be
+                                            imparted on as well.
+
+                                            At the end of each subject rotation, students are tested in exams before
+                                            they move on to the next rotation. From time to time, our Father Bishop
+                                            Dag Heward-Mills pops in to emphasize on key areas that he knows will really
+                                            help us do well on the field...What a blessing!
+
+                                        </div>
+
+                                    </div>
+
+                                </div>
+
+                                
                             </div>
 
                         </div>
@@ -313,7 +244,7 @@ require 'header.php';
                                             The sheer size of Dag Heward-Mills’ calling to win the lost at any cost in
                                             every corner of the world compelled him to give much attention to training
                                             helpers in ministry. The Pastoral aspects of the training entails practical
-                                            involvement in the ministry
+                                            involvement in Bacenta, Points systems, pastoral system.
 
 
                                         </div>
@@ -323,7 +254,7 @@ require 'header.php';
 
                                 <div class="o-two-block__block o-two-block__block--right ">
 
-                                    <div class="c-stat-block c-stat-block c-stat-block--">
+                                    <div class="c-stat-block c-stat-block c-stat-block--" style="background-color: #ec7043 !important;">
                                         <h3 class="c-stat-block__title">
 
                                             Practical aspects of the training
@@ -337,15 +268,15 @@ require 'header.php';
                                                     <p class="c-stat-block__stat-text u-watch">
                                                         <span class="c-stat-block__stat-data"><span class="u-sr-only">
 
-                                                                Bacenta
+                                                                Ordinary
                                                             </span><span class="c-stat-block__stat-animate"
                                                                 aria-hidden="true">
 
-                                                                Bacenta
+                                                                Ordinary
                                                             </span></span>
                                                         <span class="c-stat-block__stat-label">
 
-                                                            systems
+                                                            Program
                                                         </span>
                                                     </p>
                                                 </li>
@@ -354,15 +285,15 @@ require 'header.php';
                                                     <p class="c-stat-block__stat-text u-watch">
                                                         <span class="c-stat-block__stat-data"><span class="u-sr-only">
 
-                                                                Points
+                                                                Standard
                                                             </span><span class="c-stat-block__stat-animate"
                                                                 aria-hidden="true">
 
-                                                                Points
+                                                                Standard
                                                             </span></span>
                                                         <span class="c-stat-block__stat-label">
 
-                                                            System
+                                                            Program
                                                         </span>
                                                     </p>
                                                 </li>
@@ -371,15 +302,15 @@ require 'header.php';
                                                     <p class="c-stat-block__stat-text u-watch">
                                                         <span class="c-stat-block__stat-data"><span class="u-sr-only">
 
-                                                                Pastoral
+                                                                Premium
                                                             </span><span class="c-stat-block__stat-animate"
                                                                 aria-hidden="true">
 
-                                                                Pastoral
+                                                                Premium
                                                             </span></span>
                                                         <span class="c-stat-block__stat-label">
 
-                                                            Appointment
+                                                            Program
                                                         </span>
                                                     </p>
                                                 </li>
@@ -388,12 +319,14 @@ require 'header.php';
                                                     <p class="c-stat-block__stat-text u-watch">
                                                         <span class="c-stat-block__stat-data"><span class="u-sr-only">
 
-                                                                and more..
+                                                                Advanced
                                                             </span><span class="c-stat-block__stat-animate"
                                                                 aria-hidden="true">
 
-                                                                and more..
-                                                            </span></span>
+                                                                Advanced
+                                                            </span>
+                                                            Program
+                                                        </span>
                                                     </p>
                                                 </li>
 
@@ -407,7 +340,7 @@ require 'header.php';
                         </div>
                     </section>
 
-                    <section id="research" class="m-media-grid c-panel--black   ">
+                    <section id="research" class="m-media-grid c-panel--black" style="background-color: #ec7043 !important;">
                         <div class="o-container-fluid c-panel--line">
                             <div class="m-media-grid__columns">
                                 <div class="m-media-grid__text">
@@ -439,21 +372,11 @@ require 'header.php';
                                         <div class="c-panel__title o-col-9 o-col-sm-10">
                                             <h2 class="m-media-grid__title title-serif--xl "
                                                 id="m-media-grid-title-research">
-                                                Programs
+                                                Subject Rotation
                                             </h2>
                                             <div class="c-wysiwyg-section m-media-grid__subtitle">
 
                                                 <p>
-                                                    ABMTC offers four Programs:
-                                                    <br>
-                                                    The Ordinary Program: 9 Months; <br>
-                                                    The Standard Program: 9 Months, after The Ordinary Program <br>
-                                                    The Premium Program: 9 Months, after The Standard Program <br>
-                                                    The Advanced Program: 9 Months, after The Premium Program <br>
-                                                    A Certificate will be obtained after each program is completed. <br>
-                                                    Pastoral Appointment will be after successful completion of the
-                                                    Advanced Program. <br> <br>
-                                                    The following subject rotations are treated in each program:
                                                 </p>
 
                                             </div>
@@ -1020,23 +943,7 @@ require 'header.php';
                                     <li class="m-media-grid__item">
 
 
-
-                                        <figure class="c-media c-media--wysiwyg_inline">
-                                            <div
-                                                class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
-
-
-                                                <img src="assets/img/manthano.jpg" width="800" height="533" alt=""
-                                                    typeof="foaf:Image" />
-                                                <noscript><img src="assets/img/manthano.jpg" alt="" /></noscript>
-
-
-
-                                            </div>
-
-
-                                        </figure>
-                                    </li>
+</li>
 
                                 </ul>
                             </div>

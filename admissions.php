@@ -2,65 +2,6 @@
 require 'header.php';
 ?>
 <main id="main-content">
-    <div id="college-alert-messages" class="m-college-alerts" role="alert" aria-live="polite">
-        <div class="views-element-container" id="block-views-block-global-alerts-block-1">
-
-
-            <div></div>
-
-        </div>
-        <div class="views-element-container" id="block-views-block-global-alerts-block-2">
-
-
-            <div>
-                <div id="college-alert-messages" class="m-college-alerts" role="alert" aria-live="polite">
-
-                    <div id="alert-303168" class="m-global-alert m-global-alert--open m-global-alert--red">
-                        <div id="alert-303168-full-content" class="m-global-alert__full _u-red" aria-hidden="false"
-                            tabindex="-1">
-                            <div class="m-global-alert__content">
-                                <h2 class="m-global-alert__title"><span class="u-sr-only">Alert: </span>Apply TODAY!
-                                </h2>
-                                <div class="c-wysiwyg-section">
-
-
-                                    <p></p>
-
-
-                                </div>
-                                <p class="m-global-alert__date"></p>
-                            </div>
-                            <div class="m-global-alert__button">
-
-
-                                <button class="c-button--plain c-button--plain--transparent js-alert-button"
-                                    aria-expanded="true">Close <span class="u-sr-only">Alert</span></button>
-                            </div>
-                        </div>
-                        <div class="m-global-alert__teaser _u-red">
-                            <h2 class="m-global-alert__teaser-title">
-                                <button id="alert-303168-teaser-button"
-                                    class="js-alert-button m-global-alert__teaser-button" aria-expanded="false">
-                                    <span class="u-sr-only">Open Alert: </span>Apply TODAY
-                                    <span class="m-global-alert__teaser-icon" aria-hidden="true"><svg
-                                            xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                                            viewBox="0 0 16 16">
-                                            <polygon
-                                                points="121 113 128 113 128 115 121 115 121 122 119 122 119 115 112 115 112 113 119 113 119 106 121 106"
-                                                transform="translate(-112 -106)" />
-                                        </svg>
-                                    </span>
-                                </button>
-                            </h2>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-
-    </div>
     <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
         <div id="block-harvard-college-content">
 
@@ -81,19 +22,19 @@ require 'header.php';
                                     <picture>
                                         <!--[if IE 9]><video style="display: none;"><![endif]-->
                                         <source
-                                            srcset="/sites/default/files/styles/page_header_x_large/public/2019-07/banner_admission_still.jpg?h=bde28bee&amp;itok=IOu-2yIg 1x"
+                                            srcset="assets/img/admissions.jpg"
                                             media="screen and (min-width: 87.5em)" type="image/jpeg" />
                                         <source
-                                            srcset="/sites/default/files/styles/page_header_large/public/2019-07/banner_admission_still.jpg?h=bde28bee&amp;itok=Y0dKvGv5 1x"
+                                            srcset="assets/img/admissions.jpg"
                                             media="screen and (min-width: 67.5em)" type="image/jpeg" />
                                         <source
-                                            srcset="/sites/default/files/styles/page_header_medium/public/2019-07/banner_admission_still.jpg?h=bde28bee&amp;itok=aD3G-QlB 1x"
+                                            srcset="assets/img/admissions.jpg"
                                             media="screen and (min-width: 47.5em)" type="image/jpeg" />
                                         <!--[if IE 9]></video><![endif]-->
-                                        <img src="sites/default/files/styles/page_header_small/public/2019-07/banner_admission_still85f2.jpg?h=bde28bee&amp;itok=Q1iaE_0O"
+                                        <img src="assets/img/admissions.jpg"
                                             alt="" typeof="foaf:Image" />
                                         <noscript><img
-                                                src="sites/default/files/styles/page_header_small/public/2019-07/banner_admission_still85f2.jpg?h=bde28bee&amp;itok=Q1iaE_0O"
+                                                src="assets/img/admissions.jpg"
                                                 alt="" /></noscript>
                                     </picture>
 
@@ -102,9 +43,8 @@ require 'header.php';
                                 </div>
 
                                 <div class="c-ambient-video__video">
-                                    <video class="c-ambient-video__video-file"
-                                        src="sites/default/files/2019-07/banner_admission_video.mp4" autoplay muted loop
-                                        playsinline aria-hidden="true"></video>
+                                    <img class="c-ambient-video__video-file"
+                                        src="assets/img/admissions.jpg" aria-hidden="true"></img>
                                 </div>
 
                                 <div class="c-ambient-video__toggle">
@@ -171,11 +111,6 @@ require 'header.php';
                                                     Admission Stages
                                                 </a>
                                             </li>
-                                            <li>
-                                                <a class="js-smooth-anchor" href="#admissions-statistics">
-                                                    Admissions Statistics
-                                                </a>
-                                            </li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -192,16 +127,14 @@ require 'header.php';
                                 </h2>
                                 <p class="page-header__lead-paragraph">
 
-                                    The Future Is Calling
+                                    Fulfill Your Ministry
                                 </p>
 
 
                                 <div class="c-wysiwyg-section ">
 
 
-                                    <p>Harness your curiosity and learn about the world—and yourself. Through our
-                                        liberal arts and sciences curriculum, you'll discover how to use your passions
-                                        to build a bright future.</p>
+                                    <p>We are one of the leading Bible Schools in the world; equiping students with the mind of excellent practical ministry work and a heart for the gospel. We believe that any time spent in preparation is not lost time.</p>
 
                                 </div>
 
@@ -240,7 +173,7 @@ require 'header.php';
                                     </h2>
                                     <p class="m-billboard__body ">
 
-                                        For a smooth admission, ensure you have the following:
+                                        For a smooth admission, you will need the following:
                                     </p>
 
                                     <div
@@ -339,19 +272,12 @@ require 'header.php';
                                     <span class="o-img-shadow o-img-shadow--white u-watch">
                                         <span class="o-img-shadow__shadow"></span>
 
-
-
-
-                                        <img src="sites/default/files/styles/billboard_image/public/2019-05/17-909-harvard2017-21454ab.jpg?h=06ac0d8c&amp;itok=8eu0ZKnl"
-                                            width="1000" height="610" alt="Two students looking at a cell phone"
+                                        <img src="assets/img/requirement.jpg"
+                                            width="1000" height="610" alt="T"
                                             typeof="foaf:Image" />
                                         <noscript><img
-                                                src="sites/default/files/styles/billboard_image/public/2019-05/17-909-harvard2017-21454ab.jpg?h=06ac0d8c&amp;itok=8eu0ZKnl"
-                                                alt="Two students looking at a cell phone" /></noscript>
-
-
-
-
+                                                src="assets/img/requirement.jpg"
+                                                alt="T" /></noscript>
 
                                     </span>
                                 </div>
@@ -394,14 +320,7 @@ require 'header.php';
 
                                 <div class="o-two-block__block o-two-block__block--right ">
 
-
-
-
-
-
                                     <div class="c-text-cta c-text-cta--black ">
-
-
 
                                         <div class="c-text-cta__section u-content-pad--md">
                                             <h4 class="c-text-cta__section-title title-serif--small">
@@ -410,8 +329,7 @@ require 'header.php';
                                             </h4>
 
 
-                                            <p>Click Apply and create an account on the Applicant Portal (whatsapp number and password)</p>
-
+                                            <p>Click Apply and create an account on the Applicant Portal (Email/WhatsApp number and password)</p>
 
                                         </div>
                                         <div class="c-text-cta__section u-content-pad--md">
@@ -453,7 +371,7 @@ require 'header.php';
                                                 Stage 5
                                             </h4>
 
-                                            Book a final video interview online. If you are successful in the final video interview you will receive an Admission Letter and then you will need to log into the Admitted Students Website.) </p>
+                                            Book a final video interview online. If you are successful in the final video interview you will receive an Admission Letter and then you will need to log into the Admitted Students Website. </p>
 
 
                                         </div>

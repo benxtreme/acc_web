@@ -6,62 +6,6 @@ require 'header.php';
 
 
 <main id="main-content">
-    <div id="college-alert-messages" class="m-college-alerts" role="alert" aria-live="polite">
-        <div class="views-element-container" id="block-views-block-global-alerts-block-1">
-
-            <div></div>
-
-        </div>
-        <div class="views-element-container" id="block-views-block-global-alerts-block-2">
-
-            <div>
-                <div id="college-alert-messages" class="m-college-alerts" role="alert" aria-live="polite">
-
-                    <div id="alert-303147" class="m-global-alert m-global-alert--open m-global-alert--red">
-                        <div id="alert-303147-full-content" class="m-global-alert__full _u-red" aria-hidden="false"
-                            tabindex="-1">
-                            <div class="m-global-alert__content">
-                                <h2 class="m-global-alert__title"><span class="u-sr-only">Alert: </span>No Information</h2>
-                                <div class="c-wysiwyg-section">
-
-
-                                    <p></p>
-
-
-                                </div>
-                                <p class="m-global-alert__date">Last Updated: March 27, 1:41pm</p>
-                            </div>
-                            <div class="m-global-alert__button">
-
-
-                                <button class="c-button--plain c-button--plain--transparent js-alert-button"
-                                    aria-expanded="true">Close <span class="u-sr-only">Alert</span></button>
-                            </div>
-                        </div>
-                        <div class="m-global-alert__teaser _u-red">
-                            <h2 class="m-global-alert__teaser-title">
-                                <button id="alert-303147-teaser-button"
-                                    class="js-alert-button m-global-alert__teaser-button" aria-expanded="false">
-                                    <span class="u-sr-only">Open Alert: </span>Campus Information and Updates
-                                    <span class="m-global-alert__teaser-icon" aria-hidden="true"><svg
-                                            xmlns="http://www.w3.org/2000/svg" width="16" height="16"
-                                            viewBox="0 0 16 16">
-                                            <polygon
-                                                points="121 113 128 113 128 115 121 115 121 122 119 122 119 115 112 115 112 113 119 113 119 106 121 106"
-                                                transform="translate(-112 -106)" />
-                                        </svg>
-                                    </span>
-                                </button>
-                            </h2>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-        </div>
-
-    </div>
     <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
         <div id="block-harvard-college-content">
 
@@ -69,23 +13,8 @@ require 'header.php';
 
             <div class="landing-page-node color-theme--blue">
 
-
-
-
-
-
-
-
-
                 <section
                     class="page-header page-header--standard page-header--blue page-header--plus page-header--video ">
-
-
-
-
-
-
-
 
 
                     <div class="page-header__media">
@@ -119,13 +48,11 @@ require 'header.php';
                                     </picture>
 
 
-
                                 </div>
 
                                 <div class="c-ambient-video__video">
-                                    <video class="c-ambient-video__video-file"
-                                        src="assets/vid/banner_life.mp4" autoplay
-                                        muted loop playsinline aria-hidden="true"></video>
+                                    <img class="c-ambient-video__video-file" src="assets/img/anagkazo-life_banner.jpg"
+                                        autoplay muted loop playsinline aria-hidden="true"></img>
                                 </div>
 
                                 <div class="c-ambient-video__toggle">
@@ -187,7 +114,7 @@ require 'header.php';
                                             </li>
                                             <li>
                                                 <a class="js-smooth-anchor" href="#residential-life">
-                                                    Residential Life
+                                                    Student Life
                                                 </a>
                                             </li>
                                             <li>
@@ -274,125 +201,44 @@ require 'header.php';
                                             <h2 class="m-media-grid__title title-serif--xl "
                                                 id="m-media-grid-title-residential-life">
 
-                                                Residential Life
+                                                Student Life
                                             </h2>
                                             <div class="m-media-grid__subtitle">
 
-                                                The Hall system creates a small-college experience within the campus. Your House is where you eat, sleep—and lay the
+                                                The Hall system creates a small-college experience within the campus.
+                                                Your House is where you eat, sleep—and lay the
                                                 groundwork for lifelong friendships.
                                             </div>
                                             <div class="m-media-grid__cta">
 
-
-
-                                                <div
-                                                    class="c-button--link-wrapper c-button c-button--on-color c-button--with-icon">
-
-
-                                                    <a href="life-at-harvard/residential-life.html">Learn more about
-                                                        residential life at Anagkazo</a>
-
-                                                    <span class="c-button__icon" aria-hidden="true">
-                                                        <svg width="16px" height="16px" viewBox="0 0 16 16"
-                                                            version="1.1" xmlns="http://www.w3.org/2000/svg"
-                                                            xmlns:xlink="http://www.w3.org/1999/xlink">
-                                                            <path
-                                                                d="M13.2928928,8 L9.26520022,3.97230743 L9.972307,3.26520065 L15.2100737,8.50296733 L9.96639725,13.6597176 L9.26522492,12.9467258 L13.2784797,9 L0,9 L0,8 L13.2928928,8 Z">
-                                                            </path>
-                                                        </svg>
-                                                    </span>
-                                                </div>
-
+                                                <nav class="c-link-group u-content-pad "
+                                                aria-labelledby="group-accomodation link-group-5e80aa0d0b55c">
+                                                <h4 id="link-group-5e80aa0d0b55c"
+                                                    class="c-link-group__title title-serif--small">
+    
+                                                   ""
+                                                </h4>
+                                                <ul class="c-link-group__list">
+                                                    <li><a  class="u-under-link">Accomodation</a></li>
+                                                    <li><a  class="u-under-link">Food</a></li>
+                                                    <li><a  class="u-under-link">Transport</a></li>
+                                                    <li><a  class="u-under-link">Weather
+                                                        </a></li>
+                                                    <li><a  class="u-under-link">Clothing </a></li>
+                                                </ul>
+                                            </nav>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
 
                                 <ul aria-labelledby="m-media-grid-title-residential-life" class="c-teaser-list--black">
-                                    <li class="m-media-grid__item">
 
-
-
-                                        <figure class="c-media c-media--wysiwyg_inline">
-                                            <div
-                                                class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
-
-
-                                                <img src="sites/default/files/styles/max_800_x_985/public/2019-05/fpo-linderpix-harvard-50799_18fa9.jpg?itok=T5A4DhHN"
-                                                    width="800" height="533" alt="Students playing pool"
-                                                    typeof="foaf:Image" />
-                                                <noscript><img
-                                                        src="sites/default/files/styles/max_800_x_985/public/2019-05/fpo-linderpix-harvard-50799_18fa9.jpg?itok=T5A4DhHN"
-                                                        alt="Students playing pool" /></noscript>
-
-
-
-                                            </div>
-
-
-                                        </figure>
-                                    </li>
-                                    <li class="m-media-grid__item">
-
-
-
-                                        <figure class="c-media c-media--wysiwyg_inline">
-                                            <div
-                                                class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
-
-
-                                                <img src="sites/default/files/styles/max_800_x_985/public/2019-05/harvard_university_20130513_1873c64e.jpg?itok=7YgdoPx5"
-                                                    width="800" height="533" alt="Students eating in dining hall "
-                                                    typeof="foaf:Image" />
-                                                <noscript><img
-                                                        src="sites/default/files/styles/max_800_x_985/public/2019-05/harvard_university_20130513_1873c64e.jpg?itok=7YgdoPx5"
-                                                        alt="Students eating in dining hall " /></noscript>
-
-
-
-                                            </div>
-
-
-                                        </figure>
-                                    </li>
-                                    <li class="m-media-grid__item">
-
-
-
-                                        <figure class="c-media c-media--wysiwyg_inline">
-                                            <div
-                                                class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
-
-
-                                                <img src="sites/default/files/styles/max_800_x_985/public/2019-05/housing_day64e2.jpg?itok=5uP6fOOa"
-                                                    width="800" height="534"
-                                                    alt="Students celebrating Anagkazo festivities in dining hall"
-                                                    typeof="foaf:Image" />
-                                                <noscript><img
-                                                        src="sites/default/files/styles/max_800_x_985/public/2019-05/housing_day64e2.jpg?itok=5uP6fOOa"
-                                                        alt="Students celebrating Anagkazo festivities in dining hall" /></noscript>
-
-
-
-                                            </div>
-
-
-                                        </figure>
                                     </li>
 
                                 </ul>
                             </div>
                     </section>
-
-
-
-
-
-
-
-
-
-
 
                     <section id="student-activities"
                         class="o-two-block  o-two-block--hidden-title  c-panel--pad--large m-two-block-content">
@@ -418,43 +264,16 @@ require 'header.php';
 
                                         <div class="c-link-block__content u-content-pad--md">
 
-
-
-                                            A Anagkazo education is more than coursework. It&#039;s late-night
-                                            discussions in the dining hall with friends, drama productions, fierce (or
-                                            friendly) athletic competitions, outings to Boston&#039;s museums—and much
-                                            more.<br />
-                                            <br />
-                                            Through extracurricular activities, you&#039;ll meet new people, pursue your
+                                            Anagkazo education is more than academics. It's playing golf or football,
+                                            dance performances, drama productions, fierce (or friendly) sport
+                                            competitions, going to the Library of Anointing or the 100% Answered Prayer
+                                            Gardens - and much more.
+                                            <br>
+                                            Through extracurricular activities, you'll meet new people, pursue your
                                             interests (or discover new ones), and enrich your understanding of the world
                                             and the people in it.
 
-
                                         </div>
-
-
-
-
-                                        <nav class="c-link-group u-content-pad "
-                                            aria-labelledby="group-student-activities link-group-5e80aa0cd17e0">
-                                            <h4 id="link-group-5e80aa0cd17e0"
-                                                class="c-link-group__title title-serif--small">
-
-                                                Quick Links
-                                            </h4>
-                                            <ul class="c-link-group__list">
-                                                <li><a href="life-at-harvard/student-activities.html"
-                                                        class="u-under-link">Student Activities</a></li>
-                                                <li><a href="life-at-harvard/student-activities/leadership-service.html"
-                                                        class="u-under-link">Leadership &amp; Service</a></li>
-                                                <li><a href="life-at-harvard/student-activities/traditions.html"
-                                                        class="u-under-link">Traditions</a></li>
-                                            </ul>
-                                        </nav>
-
-
-
-
 
                                     </div>
 
@@ -462,87 +281,6 @@ require 'header.php';
 
                                 <div class="o-two-block__block o-two-block__block--right ">
 
-
-
-
-
-
-                                    <div class="c-stat-block c-stat-block c-stat-block--">
-                                        <h3 class="c-stat-block__title">
-
-                                            Student life by the numbers
-                                        </h3>
-
-                                        <div class="c-stat-block__content">
-                                            <h4 class="u-sr-only" id="c-stat-block-title-3">Statistics</h4>
-                                            <ul class="c-stat-block__stats" aria-labelledby="c-stat-block-title-3">
-
-
-
-
-                                                <li class="c-stat-block__stat">
-                                                    <p class="c-stat-block__stat-text u-watch">
-                                                        <span class="c-stat-block__stat-data"><span class="u-sr-only">
-
-                                                                450+
-                                                            </span><span class="c-stat-block__stat-animate"
-                                                                aria-hidden="true">
-
-                                                                450+
-                                                            </span></span>
-                                                        <span class="c-stat-block__stat-label">
-
-                                                            Student organizations
-                                                        </span>
-                                                    </p>
-                                                </li>
-
-
-                                                <li class="c-stat-block__stat">
-                                                    <p class="c-stat-block__stat-text u-watch">
-                                                        <span class="c-stat-block__stat-data"><span class="u-sr-only">
-
-                                                                125+
-                                                            </span><span class="c-stat-block__stat-animate"
-                                                                aria-hidden="true">
-
-                                                                125+
-                                                            </span></span>
-                                                        <span class="c-stat-block__stat-label">
-
-                                                            Active service programs for Phillips Brooks House during the
-                                                            academic year
-                                                        </span>
-                                                    </p>
-                                                </li>
-
-
-                                                <li class="c-stat-block__stat">
-                                                    <p class="c-stat-block__stat-text u-watch">
-                                                        <span class="c-stat-block__stat-data"><span class="u-sr-only">
-
-                                                                400+
-                                                            </span><span class="c-stat-block__stat-animate"
-                                                                aria-hidden="true">
-
-                                                                400+
-                                                            </span></span>
-                                                        <span class="c-stat-block__stat-label">
-
-                                                            Students pursuing various service projects during the summer
-                                                            for Phillips Brooks House
-                                                        </span>
-                                                    </p>
-                                                </li>
-
-
-
-                                            </ul>
-                                        </div>
-                                    </div>
-
-
-
                                 </div>
                             </div>
 
@@ -551,411 +289,7 @@ require 'header.php';
                     </section>
 
 
-                    <section id="accomodation"
-                        class="o-two-block  o-two-block--hidden-title  c-panel--pad--large m-two-block-content">
-
-
-                        <div class="o-container-fluid ">
-
-                            <h2 class="u-sr-only">
-
-                                Accomodation
-                            </h2>
-
-                            <div class="o-two-block__blocks">
-                                <div class="o-two-block__block o-two-block__block--left o-two-block__block--grey">
-
-
-                                    <div class="c-link-block c-link-block--content m-two-block-content">
-                                        <h3 id="group-accomodation"
-                                            class="c-link-block__title u-content-pad--title title-serif--large">
-
-                                            Accomodation
-                                        </h3>
-
-                                        <div class="c-link-block__content u-content-pad--md">
-
-
-
-                                            Anagkazo is committed to creating an inclusive living and learning
-                                            environment for every member of our community. We offer a range of resources
-                                            and offices to help make Anagkazo safe and welcoming for students from all
-                                            backgrounds.
-
-
-                                        </div>
-
-
-
-
-                                        <nav class="c-link-group u-content-pad "
-                                            aria-labelledby="group-accomodation link-group-5e80aa0d0b55c">
-                                            <h4 id="link-group-5e80aa0d0b55c"
-                                                class="c-link-group__title title-serif--small">
-
-                                                Quick Links
-                                            </h4>
-                                            <ul class="c-link-group__list">
-                                                <li><a href="#"
-                                                        class="u-under-link">Food and Cooking Utensils</a></li>
-                                                <li><a href="#"
-                                                        class="u-under-link">Weather
-                                                    </a></li>
-                                                <li><a href="#"
-                                                        class="u-under-link">Clothing </a></li>
-                                                <li><a href="#"
-                                                        class="u-under-link">Transport
-                                                    </a></li>
-                                            </ul>
-                                        </nav>
-
-
-
-
-
-                                    </div>
-
-                                </div>
-
-                                <div class="o-two-block__block o-two-block__block--right ">
-
-
-
-
-
-
-
-                                    <div class="c-teaser-medium">
-                                        <a href="#"
-                                            class="c-teaser-medium__link">
-                                            <div class="c-teaser-medium__header c-teaser-header u-watch">
-                                                <h3 class="title-serif--medium c-teaser-medium__title"><span>Anagkazo
-                                                        Primus: A Community for Anagkazo’s Firsts</span>
-                                                </h3>
-                                                <span class="c-teaser-medium__author label-sans-small"><span
-                                                        class="u-sr-only">Author: </span>
-
-                                                    <span>Allison Scharmann</span>
-                                                    <span class="u-sr-only">Class of </span>
-
-                                                    '21
-
-                                                </span>
-
-                                                <span class="c-teaser-medium__arrow" aria-hidden="true"><svg
-                                                        xmlns="http://www.w3.org/2000/svg" width="16" height="11"
-                                                        viewBox="0 0 16 11">
-                                                        <title> </title>
-                                                        <polygon
-                                                            points="13.293 4.735 9.265 .707 9.972 0 15.21 5.238 9.966 10.395 9.265 9.682 13.278 5.735 0 5.735 0 4.735" />
-                                                    </svg>
-                                                </span>
-                                            </div>
-                                            <div class="c-teaser-medium__image">
-
-                                                <div class="c-featured-media js-ambient-video-parent">
-
-
-                                                    <img src="sites/default/files/styles/4_3/public/images/41356497_2217386785143139_5667723690880532480_o_0d621.jpg?h=c66d06c9&amp;itok=zBEDm61b"
-                                                        width="800" height="588"
-                                                        alt="two people talking outside next to a poster that says Primus"
-                                                        typeof="foaf:Image" />
-                                                    <noscript><img
-                                                            src="sites/default/files/styles/4_3/public/images/41356497_2217386785143139_5667723690880532480_o_0d621.jpg?h=c66d06c9&amp;itok=zBEDm61b"
-                                                            alt="two people talking outside next to a poster that says Primus" /></noscript>
-
-
-
-
-                                                </div>
-                                            </div>
-                                        </a>
-                                    </div>
-
-
-
-
-
-                                </div>
-                            </div>
-
-
-                        </div>
-                    </section>
-
-
-                    <section id="student-stories" class="m-stories-block c-panel--box">
-                        <span class="c-panel--box-outline"></span>
-                        <div class="m-stories-block__container o-container-fluid c-panel--line c-panel--line--lg">
-
-                            <div class="o-row m-stories-block__header">
-                                <div class="m-stories-block__header-icon o-col o-col-3 o-col-sm-1" aria-hidden="true">
-
-
-                                    <svg xmlns="http://www.w3.org/2000/svg" width="29" height="30" viewBox="0 0 29 30">
-                                        <path
-                                            d="M26.5939227,1.67538909 L2.40551694,1.67538909 L2.40551694,10.0019813 C2.40551694,12.9622229 3.28655952,15.8135847 4.91479735,18.547101 C6.53106611,21.2605234 8.79123889,23.716225 11.4025999,25.8590262 C12.3249888,26.6159097 13.2263708,27.2792269 14.0690067,27.8433606 C14.1918711,27.9256168 14.3098026,28.0032723 14.4224526,28.0762746 C16.5382428,26.7439834 18.899796,24.8909131 21.0274002,22.5905106 C24.5531229,18.7784381 26.5907902,14.5798079 26.5907903,10.0625474 L26.5939227,1.67538909 Z M0.851945511,10.0019813 L0.851945511,0.175389089 L28.1480545,0.175389089 L28.1443616,10.0630883 C28.1443616,21.1750065 16.7967174,28.4463273 14.5219263,29.7898505 C14.5219263,29.7898505 14.4374525,29.8413966 14.3599028,29.8189491 C14.2634756,29.7640117 7.48458299,25.8700467 3.56806459,19.294922 C1.9724595,16.6161902 0.851945511,13.4924449 0.851945511,10.0019813 Z M5.58732557,20.9521535 L4.64659951,19.7584138 L14.5,12.5197273 L24.3534005,19.7584138 L23.4126744,20.9521535 L14.5,14.4045605 L5.58732557,20.9521535 Z" />
-                                    </svg>
-
-
-
-                                </div>
-                                <div class="m-stories-block__header-label o-col o-col-9 o-col-sm-11">
-                                    <h2 class="title-serif--large">
-
-                                        Student Stories
-                                    </h2>
-                                </div>
-                            </div>
-
-                            <div class="o-row">
-                                <h3 id="stories-featured-title" class="u-sr-only">Featured Stories</h3>
-                            </div>
-                            <div class="o-row m-stories-block__featured-row">
-
-                                <div class="m-stories-block__images o-col o-col-sm-md-8" aria-hidden="true">
-                                </div>
-
-                                <ul class="m-stories-block__featured o-col o-col-sm-md-4"
-                                    aria-labelledby="stories-featured-title">
-
-                                    <li class="m-stories-block__featured-item is-active">
-
-                                        <div class="c-teaser-story ">
-
-                                            <a href="life-at-harvard/student-stories/dealing-cold-southern-californians-guide.html"
-                                                class="c-teaser-story__link" data-image="story-image-">
-
-                                                <div class="c-teaser-header c-teaser-story__header">
-                                                    <h4 class="title-serif--small"><span>Dealing with the Cold: A
-                                                            Southern Californian’s Guide</span>
-                                                    </h4>
-                                                    <span class="u-sr-only">Author: </span>
-                                                    <p class="label-sans c-teaser-header__subtitle">
-
-                                                        <span>Kalos Chu</span>
-                                                        <span class="u-sr-only">Class of </span>
-
-                                                        '22
-
-                                                    </p>
-                                                    <span class="c-teaser-story__icon">
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="11"
-                                                            viewBox="0 0 16 11">
-                                                            <title> </title>
-                                                            <polygon
-                                                                points="13.293 4.735 9.265 .707 9.972 0 15.21 5.238 9.966 10.395 9.265 9.682 13.278 5.735 0 5.735 0 4.735" />
-                                                        </svg>
-                                                    </span>
-                                                </div>
-
-                                                <div class="c-teaser-story__image">
-                                                    <div class="c-teaser-story__image-inner">
-
-                                                        <div class="c-featured-media js-ambient-video-parent">
-
-
-                                                            <img src="sites/default/files/styles/4_3/public/2019-11/kalos_k._chu_222086.jpg?h=58c8a5e7&amp;itok=SYEKu84n"
-                                                                width="800" height="588"
-                                                                alt="Person wearing many layers of clothing"
-                                                                typeof="foaf:Image" />
-                                                            <noscript><img
-                                                                    src="sites/default/files/styles/4_3/public/2019-11/kalos_k._chu_222086.jpg?h=58c8a5e7&amp;itok=SYEKu84n"
-                                                                    alt="Person wearing many layers of clothing" /></noscript>
-
-
-
-
-                                                        </div>
-                                                        <span class="c-teaser-story__image-bkg u-cover"></span>
-                                                    </div>
-                                                </div>
-                                            </a>
-
-                                        </div>
-                                    </li>
-                                    <li class="m-stories-block__featured-item ">
-
-                                        <div class="c-teaser-story ">
-
-                                            <a href="life-at-harvard/student-stories/lowell-house-home-campus.html"
-                                                class="c-teaser-story__link" data-image="story-image-">
-
-                                                <div class="c-teaser-header c-teaser-story__header">
-                                                    <h4 class="title-serif--small"><span>Lowell House: Home on Campus
-                                                        </span>
-                                                    </h4>
-                                                    <span class="u-sr-only">Author: </span>
-                                                    <p class="label-sans c-teaser-header__subtitle">
-
-                                                        <span>Maribel Nava</span>
-                                                        <span class="u-sr-only">Class of </span>
-
-                                                        '20
-
-                                                    </p>
-                                                    <span class="c-teaser-story__icon">
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="11"
-                                                            viewBox="0 0 16 11">
-                                                            <title> </title>
-                                                            <polygon
-                                                                points="13.293 4.735 9.265 .707 9.972 0 15.21 5.238 9.966 10.395 9.265 9.682 13.278 5.735 0 5.735 0 4.735" />
-                                                        </svg>
-                                                    </span>
-                                                </div>
-
-                                                <div class="c-teaser-story__image">
-                                                    <div class="c-teaser-story__image-inner">
-
-                                                        <div class="c-featured-media js-ambient-video-parent">
-
-
-                                                            <img src="sites/default/files/styles/4_3/public/2019-11/fd69c9ca-d92f-4ff4-bf48-13d016ff0dcd0460.jpg?h=0f47bdf6&amp;itok=UzcbNLGZ"
-                                                                width="800" height="588"
-                                                                alt="Lowellians ready for spring 2019 Housing Day!"
-                                                                typeof="foaf:Image" />
-                                                            <noscript><img
-                                                                    src="sites/default/files/styles/4_3/public/2019-11/fd69c9ca-d92f-4ff4-bf48-13d016ff0dcd0460.jpg?h=0f47bdf6&amp;itok=UzcbNLGZ"
-                                                                    alt="Lowellians ready for spring 2019 Housing Day!" /></noscript>
-
-
-
-
-                                                        </div>
-                                                        <span class="c-teaser-story__image-bkg u-cover"></span>
-                                                    </div>
-                                                </div>
-                                            </a>
-
-                                        </div>
-                                    </li>
-                                    <li class="m-stories-block__featured-item ">
-
-                                        <div class="c-teaser-story ">
-
-                                            <a href="life-at-harvard/student-stories/getting-involved-community.html"
-                                                class="c-teaser-story__link" data-image="story-image-">
-
-                                                <div class="c-teaser-header c-teaser-story__header">
-                                                    <h4 class="title-serif--small"><span>Getting Involved in the
-                                                            Community</span>
-                                                    </h4>
-                                                    <span class="u-sr-only">Author: </span>
-                                                    <p class="label-sans c-teaser-header__subtitle">
-
-                                                        <span>Anthony Bennett</span>
-                                                        <span class="u-sr-only">Class of </span>
-
-                                                        '22
-
-                                                    </p>
-                                                    <span class="c-teaser-story__icon">
-                                                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="11"
-                                                            viewBox="0 0 16 11">
-                                                            <title> </title>
-                                                            <polygon
-                                                                points="13.293 4.735 9.265 .707 9.972 0 15.21 5.238 9.966 10.395 9.265 9.682 13.278 5.735 0 5.735 0 4.735" />
-                                                        </svg>
-                                                    </span>
-                                                </div>
-
-                                                <div class="c-teaser-story__image">
-                                                    <div class="c-teaser-story__image-inner">
-
-                                                        <div class="c-featured-media js-ambient-video-parent">
-
-
-                                                            <img src="sites/default/files/styles/4_3/public/2019-08/unknown-14649.jpg?itok=9VN3Y0zC"
-                                                                width="800" height="588"
-                                                                alt="Student cooking in kitchen" typeof="foaf:Image" />
-                                                            <noscript><img
-                                                                    src="sites/default/files/styles/4_3/public/2019-08/unknown-14649.jpg?itok=9VN3Y0zC"
-                                                                    alt="Student cooking in kitchen" /></noscript>
-
-
-
-
-                                                        </div>
-                                                        <span class="c-teaser-story__image-bkg u-cover"></span>
-                                                    </div>
-                                                </div>
-                                            </a>
-
-                                        </div>
-                                    </li>
-
-
-                                </ul>
-                            </div>
-
-                            <div class="o-row">
-
-                                <h3 id="stories-latest-title" class="u-sr-only">Latest Stories</h3>
-                                <ul class="m-stories-block__more o-col o-col-sm-md-10 o-col-sm-md--offset-1"
-                                    aria-labelledby="stories-latest-title">
-
-                                    <li class="m-stories-block__more-entry">
-                                        <a href="life-at-harvard/student-stories/midsummer-nights-my-dreams.html"
-                                            class="o-block-link">
-                                            <h4 class="title-serif--small"><span>Midsummer Nights of My Dreams!</span>
-                                            </h4>
-                                            <p class="label-sans"><span class="u-sr-only">Author: </span>
-
-                                                <span>Malia Clark</span>
-                                                <span class="u-sr-only">Class of </span>
-
-                                                '21
-
-                                            </p>
-                                        </a>
-                                    </li>
-                                    <li class="m-stories-block__more-entry">
-                                        <a href="life-at-harvard/student-stories/choosing-harvard.html"
-                                            class="o-block-link">
-                                            <h4 class="title-serif--small"><span>Choosing Anagkazo</span>
-                                            </h4>
-                                            <p class="label-sans"><span class="u-sr-only">Author: </span>
-
-                                                <span>Maria Perez Franco</span>
-                                                <span class="u-sr-only">Class of </span>
-
-                                                '20
-
-                                            </p>
-                                        </a>
-                                    </li>
-                                    <li class="m-stories-block__more-entry">
-                                        <a href="life-at-harvard/student-stories/should-you-consider-taking-gap-year.html"
-                                            class="o-block-link">
-                                            <h4 class="title-serif--small"><span>Should You Consider Taking a Gap
-                                                    Year?</span>
-                                            </h4>
-                                            <p class="label-sans"><span class="u-sr-only">Author: </span>
-
-                                                <span>Rhea Bennett</span>
-                                                <span class="u-sr-only">Class of </span>
-
-                                                '20
-
-                                            </p>
-                                        </a>
-                                    </li>
-
-                                </ul>
-
-                            </div>
-
-                            <div class="c-panel--link-wrapper m-stories-block__archive-link">
-
-
-                                <a href="life-at-harvard/student-stories.html">View all</a>
-
-                            </div>
-                        </div>
-                    </section>
-
-
-                </div>
+                  </div>
 
 
             </div>
