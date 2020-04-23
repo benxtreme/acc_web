@@ -44,10 +44,13 @@
                             <a href="campus.php">Campus</a>
                         </li>
                         <li>
+                            <a href="contact.php">Contact us</a>
+                        </li>
+                        <li>
                             <a href="alumni.php">Alumni</a>
                         </li>
                         <li>
-                            <a href="contact.php">Contact us</a>
+                            <a>Apply Now</a>
                         </li>
                     </ul>
                     <h2 id="primary-nav-toggle-title" class="u-sr-only">Menu and Search</h2>
@@ -266,7 +269,7 @@
                         <li>
                             <h3 class="m-additional-nav__pages-title">
                                 <a href="campus.php" id="nav-group-life-at-harvard--2"
-                                    class="title-serif--small">Campus</a>
+                                class="title-serif--small">Campus</a>
                             </h3>
                             <button class="m-additional-nav__submenu-toggle _accordion-toggle" data-targetid="next"
                                 aria-controls="nav-group-list-life-at-harvard--2" aria-expanded="false"
@@ -274,11 +277,11 @@
                                 <span>
                                     <span class="u-sr-only">Toggle Campus Submenu</span>
                                     <span aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" width="16"
-                                            height="16" viewBox="0 0 16 16">
+                                        height="16" viewBox="0 0 16 16">
                                             <polygon
                                                 points="121 113 128 113 128 115 121 115 121 122 119 122 119 115 112 115 112 113 119 113 119 106 121 106"
                                                 transform="translate(-112 -106)" />
-                                        </svg>
+                                            </svg>
                                     </span>
                                 </span>
                             </button>
@@ -293,7 +296,7 @@
                                 <li>
                                     <a href="campus.php#prayer-garden" class="label-sans">Residential
                                         Life</a>
-
+                                        
                                 </li>
                                 <li>
                                     <a href="campus.php#lecture-halls" class="label-sans">Lecture Halls</a>
@@ -302,18 +305,23 @@
                                 <li>
                                     <a href="campus.php#library-anointing" class="label-sans">Library of the
                                         Anointing</a>
-
-                                </li>
-                                <li>
-                                    <a href="campus.php#gallery" class="label-sans">Gallery</a>
-
+                                        
+                                    </li>
+                                    <li>
+                                        <a href="campus.php#gallery" class="label-sans">Gallery</a>
+                                        
                                 </li>
                                 <li>
                                     <a href="campus.php#map" class="label-sans">Campus Map</a>
-
+                                    
                                 </li>
                             </ul>
-
+                            <li>
+                                <h3 class="m-additional-nav__pages-title">
+                                    <a href="contact.php" id="nav-group-life-at-harvard--2" class="title-serif--small">Contact ABMTC</a>
+                                </h3>
+                            </li>
+                            
                         </li>
                         <li>
                             <h3 class="m-additional-nav__pages-title">
@@ -359,6 +367,13 @@
                             </ul>
 
                         </li>
+                        <li>
+                            <h3 class="m-additional-nav__pages-title">
+                                <a href="alumni.php" id="nav-group-life-at-harvard--2" class="title-serif--small">Apply
+                                    Now</a>
+                            </h3>
+
+                        </li>
                     </ul>
                 </div>
                 <!-- other resoucrses for a new content -->
@@ -374,7 +389,7 @@
                                     class="title-serif--small m-site-info__links-title">Helpful Links</h3>
                                 <ul class="m-site-info__links-list">
                                     <li><a href="contact.php" class="internal-link label-sans u-under-link">Contact
-                                            Us</a></li>
+                                            ABMTC</a></li>
                                     <li><a href="#" class="external-link label-sans u-under-link"
                                             target="_blank">Applicant
                                             Portal</a></li>
@@ -386,18 +401,17 @@
                                 <h3 id="site-info-links-group-2-header"
                                     class="title-serif--small m-site-info__links-title">University Resources</h3>
                                 <ul class="m-site-info__links-list">
-                                    <li><a href="https://registrar.fas.harvard.edu/harvard-college-academic-calendar"
-                                            class="external-link label-sans u-under-link" target="_blank">Academic
+                                    <li><a class="external-link label-sans u-under-link" target="_blank">Academic
                                             Calendar</a></li>
-                                    <li><a href="https://map.harvard.edu/" class="external-link label-sans u-under-link"
-                                            target="_blank">Campus Map</a></li>
+                                    <li><a class="external-link label-sans u-under-link" target="_blank">Campus Map</a>
+                                    </li>
                                 </ul>
                             </nav>
                         </div>
 
                         <div class="m-site-info__locations o-col o-col-sm-md-5">
                             <h3 id="footer-addresses-header" class="u-sr-only">Important Addresses</h3>
-                            <a href="https://map.harvard.edu/" class="m-site-info__addresses-map-link" target="blank"
+                            <a class="m-site-info__addresses-map-link" target="blank"
                                 aria-label="Visit the Harvard Campus Map">
                                 <img src="sites/default/files/portal/harvard-map_1.jpg" alt="Harvard Campus Map"
                                     typeof="foaf:Image" />
@@ -515,9 +529,8 @@
                     <div class="o-col o-col-sm-md-10 o-col-sm-md--offset-1">
                         <h2 id="search-panel-form-label" class="u-sr-only">Search the site</h2>
 
-                        <form class="m-search-panel__form" data-drupal-selector="google-custom-search"
-                            action="#" method="get" id="google-custom-search"
-                            accept-charset="UTF-8">
+                        <form class="m-search-panel__form" data-drupal-selector="google-custom-search" action="#"
+                            method="get" id="google-custom-search" accept-charset="UTF-8">
 
                             <div
                                 class="m-search-panel__search-input js-form-item form-item js-form-type-search form-item-keys js-form-item-keys input form-field">
@@ -609,7 +622,8 @@
 
 
                                 <button class="c-button--plain c-button--plain--transparent js-alert-button"
-                                    aria-expanded="true">Click here to Apply <span class="u-sr-only">Alert</span></button>
+                                    aria-expanded="true">Click here to Apply <span
+                                        class="u-sr-only">Alert</span></button>
                             </div>
                         </div>
                         <div class="m-global-alert__teaser _u-orange">

@@ -21,26 +21,26 @@ require 'header.php';
                                     <picture>
                                         <!--[if IE 9]><video style="display: none;"><![endif]-->
                                         <source
-                                            srcset="/sites/default/files/styles/page_header_x_large/public/2019-07/banner_academics_still.jpg?h=bde28bee&amp;itok=usLrINNd 1x"
+                                            srcset=""
                                             media="screen and (min-width: 87.5em)" type="image/jpeg" />
                                         <source
-                                            srcset="/sites/default/files/styles/page_header_large/public/2019-07/banner_academics_still.jpg?h=bde28bee&amp;itok=vaWUMkk0 1x"
+                                            srcset="assets/img/conference.jpg"
                                             media="screen and (min-width: 67.5em)" type="image/jpeg" />
                                         <source
-                                            srcset="/sites/default/files/styles/page_header_medium/public/2019-07/banner_academics_still.jpg?h=bde28bee&amp;itok=WITb3jDw 1x"
+                                            srcset="assets/img/conference.jpg"
                                             media="screen and (min-width: 47.5em)" type="image/jpeg" />
                                         <!--[if IE 9]></video><![endif]-->
-                                        <img src="sites/default/files/styles/page_header_small/public/2019-07/banner_academics_still80a4.jpg?h=bde28bee&amp;itok=agjQf1Ia"
+                                        <img src="assets/img/conference.jpg"
                                             alt="" typeof="foaf:Image" />
                                         <noscript><img
-                                                src="sites/default/files/styles/page_header_small/public/2019-07/banner_academics_still80a4.jpg?h=bde28bee&amp;itok=agjQf1Ia"
+                                                src="assets/img/conference.jpg"
                                                 alt="" /></noscript>
                                     </picture>
 
                                 </div>
 
                                 <div class="c-ambient-video__video">
-                                    <img class="c-ambient-video__video-file" src="assets/img/aca_banner.jpg"
+                                    <img class="c-ambient-video__video-file" src="assets/img/conference.jpg"
                                        aria-hidden="true"></img>
                                 </div>
 
@@ -95,6 +95,11 @@ require 'header.php';
                                             <li>
                                                 <a class="js-smooth-anchor" href="#liberal-arts-sciences">
                                                     Lectures
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a class="js-smooth-anchor" href="#bmcdr">
+                                                    Bible Memorization and Character Development Rotation
                                                 </a>
                                             </li>
                                             <li>
@@ -158,16 +163,10 @@ require 'header.php';
                                         <a
                                             class="c-teaser-medium__link">
                                             <div class="c-teaser-medium__header c-teaser-header u-watch">
-                                                <h3 class="title-serif--medium c-teaser-medium__title"><span>BMCDR</span>
+                                                <h3 class="title-serif--medium c-teaser-medium__title"><span></span>
                                                 </h3>
 
-                                                <span class="c-teaser-medium__arrow" aria-hidden="true"><svg
-                                                        xmlns="http://www.w3.org/2000/svg" width="16" height="11"
-                                                        viewBox="0 0 16 11">
-                                                        <title> </title>
-                                                        <polygon
-                                                            points="13.293 4.735 9.265 .707 9.972 0 15.21 5.238 9.966 10.395 9.265 9.682 13.278 5.735 0 5.735 0 4.735" />
-                                                    </svg>
+                                                <span class="c-teaser-medium__arrow" aria-hidden="true">
                                                 </span>
                                             </div>
                                             <div class="c-teaser-medium__image">
@@ -219,6 +218,92 @@ require 'header.php';
                         </div>
                     </section>
 
+                    <section id="research" class="m-media-grid c-panel--black">
+                        <div class="o-container-fluid c-panel--line">
+                            <div class="m-media-grid__columns">
+                                <div class="m-media-grid__text">
+                                    <div class="o-row o-row--start">
+                                        <div class="c-panel__title-icon o-col-2">
+                                            <span class="title-serif--xl">
+
+                                                <svg xmlns="http://www.w3.org/2000/svg" width="26" height="30"
+                                                    viewBox="0 0 26 30">
+                                                    <title>Research</title>
+                                                    <g fill-rule="evenodd">
+                                                        <polygon fill-rule="nonzero"
+                                                            points="20.818 13.018 22.318 13.018 22.318 29.982 -.75 30.038 -.75 .601 16.966 .601 16.966 2.101 .75 2.101 .75 28.534 20.818 28.486" />
+                                                        <path fill-rule="nonzero"
+                                                            d="M22.1411084,2.4780249 L23.4678813,3.80479784 L25.0621776,2.21006105 L23.7359186,0.88380208 L22.1411084,2.4780249 Z M22.5841199,4.68880341 L21.2570621,3.36174557 L13.501,11.1149509 L13.501,12.445 L14.8300659,12.445 L22.5841199,4.68880341 Z M12.251,13.695 L12.251,10.5970491 L23.7360814,-0.88380208 L26.8298224,2.20993895 L15.3479341,13.695 L12.251,13.695 Z" />
+                                                        <polygon fill-rule="nonzero"
+                                                            points="9.641 12.367 9.641 13.773 3.516 13.773 3.516 12.367" />
+                                                        <polygon fill-rule="nonzero"
+                                                            points="18.078 16.206 18.078 17.612 3.515 17.612 3.515 16.206" />
+                                                        <polygon fill-rule="nonzero"
+                                                            points="18.078 19.908 18.078 21.314 3.515 21.314 3.515 19.908" />
+                                                        <polygon fill-rule="nonzero"
+                                                            points="18.078 23.509 18.078 24.915 3.515 24.915 3.515 23.509" />
+                                                    </g>
+                                                </svg>
+
+                                            </span>
+                                        </div>
+                                        <div class="c-panel__title o-col-9 o-col-sm-10">
+                                            <h2 class="m-media-grid__title title-serif--xl "
+                                                id="m-media-grid-title-research">
+                                                Bible Memorization and Character Development Rotation
+                                            </h2>
+                                            <div class="c-wysiwyg-section m-media-grid__subtitle">
+
+                                                <p>
+                                                    Bible Memorization  and Character Development Rotation are the foundations of a great ministry. Today, many people do not stand on a strong foundation and cannot therefore generate a mighty work of God on the earth.
+                                                </p>
+                                                <p>
+                                                    By hard work with a diligent and humble character, you will develop the necessary character that can carry the great gifts of God. Through the rotation of bible memorozation and character development, your ministry will go to the highest possible levels.
+                                                </p>
+                                                <p>
+                                                    Bible memorozation is simply committing key scriptures to memory so that you can qoute them when necessary.
+                                                </p>
+                                                <p>
+                                                    Character development involves developing diligence in business, through routine daily work, as well as predetermined project work.
+                                                </p>
+
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <ul aria-labelledby="m-media-grid-title-research" class="c-teaser-list--black">
+                                    <li class="m-media-grid__item">
+
+
+
+                                        <figure class="c-media c-media--wysiwyg_inline">
+                                            <div
+                                                class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
+
+
+                                                <img src="assets/img/bmcdr.jpg" width="800" height="432"
+                                                    alt="students gathered on the grass" typeof="foaf:Image" />
+                                                <noscript><img src="assets/img/bmcdr.jpg"
+                                                        alt="students gathered on the grass" /></noscript>
+
+
+
+                                            </div>
+
+
+                                        </figure>
+                                    </li>
+                                    <li class="m-media-grid__item">
+
+
+</li>
+
+                                </ul>
+                            </div>
+                    </section>
+
                     <section id="faculty"
                         class="o-two-block  o-two-block--hidden-title  c-panel--pad--large m-two-block-content">
 
@@ -243,8 +328,7 @@ require 'header.php';
 
                                             The sheer size of Dag Heward-Mills’ calling to win the lost at any cost in
                                             every corner of the world compelled him to give much attention to training
-                                            helpers in ministry. The Pastoral aspects of the training entails practical
-                                            involvement in Bacenta, Points systems, pastoral system.
+                                            helpers in ministry.
 
 
                                         </div>
@@ -252,95 +336,99 @@ require 'header.php';
 
                                 </div>
 
-                                <div class="o-two-block__block o-two-block__block--right ">
-
-                                    <div class="c-stat-block c-stat-block c-stat-block--" style="background-color: #ec7043 !important;">
-                                        <h3 class="c-stat-block__title">
-
-                                            Practical aspects of the training
-                                        </h3>
-
-                                        <div class="c-stat-block__content">
-                                            <h4 class="u-sr-only" id="c-stat-block-title-3">Statistics</h4>
-                                            <ul class="c-stat-block__stats" aria-labelledby="c-stat-block-title-3">
-
-                                                <li class="c-stat-block__stat">
-                                                    <p class="c-stat-block__stat-text u-watch">
-                                                        <span class="c-stat-block__stat-data"><span class="u-sr-only">
-
-                                                                Ordinary
-                                                            </span><span class="c-stat-block__stat-animate"
-                                                                aria-hidden="true">
-
-                                                                Ordinary
-                                                            </span></span>
-                                                        <span class="c-stat-block__stat-label">
-
-                                                            Program
-                                                        </span>
-                                                    </p>
-                                                </li>
-
-                                                <li class="c-stat-block__stat">
-                                                    <p class="c-stat-block__stat-text u-watch">
-                                                        <span class="c-stat-block__stat-data"><span class="u-sr-only">
-
-                                                                Standard
-                                                            </span><span class="c-stat-block__stat-animate"
-                                                                aria-hidden="true">
-
-                                                                Standard
-                                                            </span></span>
-                                                        <span class="c-stat-block__stat-label">
-
-                                                            Program
-                                                        </span>
-                                                    </p>
-                                                </li>
-
-                                                <li class="c-stat-block__stat">
-                                                    <p class="c-stat-block__stat-text u-watch">
-                                                        <span class="c-stat-block__stat-data"><span class="u-sr-only">
-
-                                                                Premium
-                                                            </span><span class="c-stat-block__stat-animate"
-                                                                aria-hidden="true">
-
-                                                                Premium
-                                                            </span></span>
-                                                        <span class="c-stat-block__stat-label">
-
-                                                            Program
-                                                        </span>
-                                                    </p>
-                                                </li>
-
-                                                <li class="c-stat-block__stat">
-                                                    <p class="c-stat-block__stat-text u-watch">
-                                                        <span class="c-stat-block__stat-data"><span class="u-sr-only">
-
-                                                                Advanced
-                                                            </span><span class="c-stat-block__stat-animate"
-                                                                aria-hidden="true">
-
-                                                                Advanced
-                                                            </span>
-                                                            Program
-                                                        </span>
-                                                    </p>
-                                                </li>
-
-                                            </ul>
-                                        </div>
-                                    </div>
-
-                                </div>
+                                
                             </div>
 
                         </div>
                     </section>
+                    <div class="o-two-block__block o-two-block__block--right ">
 
-                    <section id="research" class="m-media-grid c-panel--black" style="background-color: #ec7043 !important;">
+                        <div class="c-stat-block c-stat-block c-stat-block--" style="background-color: #ec7043 !important;">
+                            <h3 class="c-stat-block__title">
+
+                                The ABMTC offers four programs
+                            </h3>
+
+                            <div class="c-stat-block__content">
+                                <h4 class="u-sr-only" id="c-stat-block-title-3">Statistics</h4>
+                                <ul class="c-stat-block__stats" aria-labelledby="c-stat-block-title-3">
+
+                                    <li class="c-stat-block__stat">
+                                        <p class="c-stat-block__stat-text u-watch">
+                                            <span class="c-stat-block__stat-data"><span class="u-sr-only">
+
+                                                    Ordinary
+                                                </span><span class="c-stat-block__stat-animate"
+                                                    aria-hidden="true">
+
+                                                    Ordinary
+                                                </span></span>
+                                            <span class="c-stat-block__stat-label">
+
+                                                Program For 9 Months
+                                            </span>
+                                        </p>
+                                    </li>
+
+                                    <li class="c-stat-block__stat">
+                                        <p class="c-stat-block__stat-text u-watch">
+                                            <span class="c-stat-block__stat-data"><span class="u-sr-only">
+
+                                                    Standard
+                                                </span><span class="c-stat-block__stat-animate"
+                                                    aria-hidden="true">
+
+                                                    Standard
+                                                </span></span>
+                                            <span class="c-stat-block__stat-label">
+
+                                                Program For 18 Months (sust successfully complete the ordinary program)
+                                            </span>
+                                        </p>
+                                    </li>
+
+                                    <li class="c-stat-block__stat">
+                                        <p class="c-stat-block__stat-text u-watch">
+                                            <span class="c-stat-block__stat-data"><span class="u-sr-only">
+
+                                                    Premium
+                                                </span><span class="c-stat-block__stat-animate"
+                                                    aria-hidden="true">
+
+                                                    Premium
+                                                </span></span>
+                                            <span class="c-stat-block__stat-label">
+
+                                                Program For 27 Months (must successfully complete the standard program)
+                                            </span>
+                                        </p>
+                                    </li>
+
+                                    <li class="c-stat-block__stat">
+                                        <p class="c-stat-block__stat-text u-watch">
+                                            <span class="c-stat-block__stat-data"><span class="u-sr-only">
+
+                                                    Advanced
+                                                </span><span class="c-stat-block__stat-animate"
+                                                    aria-hidden="true">
+                                                    Advanced
+                                                </span>
+                                            </span>
+                                            <span class="c-stat-block__stat-label">
+
+                                                Program For 36 Months (must successfully complete the premium program)
+
+                                            </span>
+                                        </p>
+                                    </li>
+
+                                </ul>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <section id="research" class="m-media-grid c-panel--black">
                         <div class="o-container-fluid c-panel--line">
                             <div class="m-media-grid__columns">
                                 <div class="m-media-grid__text">
@@ -377,6 +465,7 @@ require 'header.php';
                                             <div class="c-wysiwyg-section m-media-grid__subtitle">
 
                                                 <p>
+                                                    The Following subject rotations are treated in each program:
                                                 </p>
 
                                             </div>
@@ -928,10 +1017,10 @@ require 'header.php';
                                                 class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
 
 
-                                                <img src="assets/img/1.jpg" width="800" height="432"
-                                                    alt="students gathered on the grass" typeof="foaf:Image" />
-                                                <noscript><img src="assets/img/1.jpg"
-                                                        alt="students gathered on the grass" /></noscript>
+                                                <img src="assets/img/manthano_sub.jpg" width="800" height="432"
+                                                    alt="manthano" typeof="foaf:Image" />
+                                                <noscript><img src="assets/img/manthano_sub.jpg"
+                                                        alt="manthano" /></noscript>
 
 
 

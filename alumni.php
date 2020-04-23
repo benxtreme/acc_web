@@ -7,29 +7,13 @@ require 'header.php';
     <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
         <div id="block-harvard-college-content">
 
-
-
             <div class="basic-page-node color-theme--crimson">
-
-
-
-
-
-
-
 
                 <section
                     class="page-header page-header--standard page-header--crimson page-header--normal page-header--image ">
 
 
                     <div class="page-header__media">
-
-
-
-
-
-
-
 
                         <picture>
                             <!--[if IE 9]><video style="display: none;"><![endif]-->
@@ -46,39 +30,15 @@ require 'header.php';
                                     alt="Gates of Anagkazo Yard in autumn" /></noscript>
                         </picture>
 
-
-
-
-
-
                     </div>
-
-
                     <div class="o-container-fluid page-header__content">
                         <div class="page-header__content-inner o-two-block__blocks">
 
                             <div
                                 class="page-header__content-info o-two-block__block o-two-block__block--left o-two-block__block--grey">
-                                <div class="page-header__breadcrumbs u-content-pad--title">
-                                    <div class="c-breadcrumb">
-                                        <nav role="navigation" aria-labelledby="system-breadcrumb">
-                                            <h2 id="system-breadcrumb" class="visually-hidden">Breadcrumb</h2>
-                                            <ol>
-                                                <li>
-                                                    <a href="../resources.html">Resources</a>
-                                                </li>
-                                            </ol>
-                                        </nav>
-
-                                    </div>
-                                </div>
-
                                 <div class="page-header__title-wrapper u-content-pad--title title-serif--xl">
                                     <h1 class="page-header__title u-watch">Alumni</h1>
                                 </div>
-
-
-
                                 <div class="u-content-pad--md">
                                     <nav aria-labelledby="page-header-links-title" class="page-header__links-nav">
                                         <h2 class="page-header__links-title" id="page-header-links-title">On this page
@@ -165,7 +125,7 @@ require 'header.php';
 
 
                                     <p>Gather with members of the Anagkazo community at one of the AAA's many events
-                                        held worldwide
+                                        held worldwide </p><p></p>
                                         Connect and network with fellow alumni through the Anagkazo Alumni Directory</p>
 
                                 </div>
@@ -184,7 +144,7 @@ require 'header.php';
                                             viewBox="0 0 26 36">
                                             <title>Community</title>
                                             <path
-                                                d="M2,1.25 C1.58578644,1.25 1.25,1.58578644 1.25,2 L1.25,34 C1.25,34.4142136 1.58578644,34.75 2,34.75 L24,34.75 C24.4142136,34.75 24.75,34.4142136 24.75,34 L24.75,2 C24.75,1.58578644 24.4142136,1.25 24,1.25 L2,1.25 Z M2,0 L24,0 C25.1045695,-2.02906125e-16 26,0.8954305 26,2 L26,34 C26,35.1045695 25.1045695,36 24,36 L2,36 C0.8954305,36 1.3527075e-16,35.1045695 0,34 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z M6,27 C4.8954305,27 4,27.8954305 4,29 C4,30.1045695 4.8954305,31 6,31 L13,31 C14.1045695,31 15,30.1045695 15,29 C15,27.8954305 14.1045695,27 13,27 L6,27 Z M6,26 L13,26 C14.6568542,26 16,27.3431458 16,29 C16,30.6568542 14.6568542,32 13,32 L6,32 C4.34314575,32 3,30.6568542 3,29 C3,27.3431458 4.34314575,26 6,26 Z M4,5 L4,9 L22,9 L22,5 L4,5 Z M4,4 L22,4 C22.5522847,4 23,4.44771525 23,5 L23,9 C23,9.55228475 22.5522847,10 22,10 L4,10 C3.44771525,10 3,9.55228475 3,9 L3,5 C3,4.44771525 3.44771525,4 4,4 Z M20,27 C18.8954305,27 18,27.8954305 18,29 C18,30.1045695 18.8954305,31 20,31 C21.1045695,31 22,30.1045695 22,29 C22,27.8954305 21.1045695,27 20,27 Z M20,26 C21.6568542,26 23,27.3431458 23,29 C23,30.6568542 21.6568542,32 20,32 C18.3431458,32 17,30.6568542 17,29 C17,27.3431458 18.3431458,26 20,26 Z M20,20 C18.8954305,20 18,20.8954305 18,22 C18,23.1045695 18.8954305,24 20,24 C21.1045695,24 22,23.1045695 22,22 C22,20.8954305 21.1045695,20 20,20 Z M20,19 C21.6568542,19 23,20.3431458 23,22 C23,23.6568542 21.6568542,25 20,25 C18.3431458,25 17,23.6568542 17,22 C17,20.3431458 18.3431458,19 20,19 Z M13,20 C11.8954305,20 11,20.8954305 11,22 C11,23.1045695 11.8954305,24 13,24 C14.1045695,24 15,23.1045695 15,22 C15,20.8954305 14.1045695,20 13,20 Z M13,19 C14.6568542,19 16,20.3431458 16,22 C16,23.6568542 14.6568542,25 13,25 C11.3431458,25 10,23.6568542 10,22 C10,20.3431458 11.3431458,19 13,19 Z M6,20 C4.8954305,20 4,20.8954305 4,22 C4,23.1045695 4.8954305,24 6,24 C7.1045695,24 8,23.1045695 8,22 C8,20.8954305 7.1045695,20 6,20 Z M6,19 C7.65685425,19 9,20.3431458 9,22 C9,23.6568542 7.65685425,25 6,25 C4.34314575,25 3,23.6568542 3,22 C3,20.3431458 4.34314575,19 6,19 Z M20,13 C18.8954305,13 18,13.8954305 18,15 C18,16.1045695 18.8954305,17 20,17 C21.1045695,17 22,16.1045695 22,15 C22,13.8954305 21.1045695,13 20,13 Z M20,12 C21.6568542,12 23,13.3431458 23,15 C23,16.6568542 21.6568542,18 20,18 C18.3431458,18 17,16.6568542 17,15 C17,13.3431458 18.3431458,12 20,12 Z M13,13 C11.8954305,13 11,13.8954305 11,15 C11,16.1045695 11.8954305,17 13,17 C14.1045695,17 15,16.1045695 15,15 C15,13.8954305 14.1045695,13 13,13 Z M13,12 C14.6568542,12 16,13.3431458 16,15 C16,16.6568542 14.6568542,18 13,18 C11.3431458,18 10,16.6568542 10,15 C10,13.3431458 11.3431458,12 13,12 Z M6,13 C4.8954305,13 4,13.8954305 4,15 C4,16.1045695 4.8954305,17 6,17 C7.1045695,17 8,16.1045695 8,15 C8,13.8954305 7.1045695,13 6,13 Z M6,12 C7.65685425,12 9,13.3431458 9,15 C9,16.6568542 7.65685425,18 6,18 C4.34314575,18 3,16.6568542 3,15 C3,13.3431458 4.34314575,12 6,12 Z" />
+                                                d="M2,1.25 C1.58578644,1.25 1.25,1.58578644 1.25,2 L1.25,34 C1.25,34.4142136 1.58578644,34.75 2,34.75 L24,34.75 C24.4142136,34.75 24.75,34.4142136 24.75,34 L24.75,2 C24.75,1.58578644 24.4142136,1.25 24,1.25 L2,1.25 Z M2,0 L24,0 C25.1045695,-2.02906125e-16 26,0.8954305 26,2 L26,34 C26,35.1045695 25.1045695,36 24,36 L2,36 C0.8954305,36 1.3527075e-16,35.1045695 0,34 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z M6,27 C4.8954305,27 4,27.8954305 4,29 C4,30.1045695 4.8954305,31 6,31 L13,31 C14.10.8954305,24 6,24 C7.1045695,24 8,23.1045695 8,22 C8,20.8954305 7.1045695,20 6,20 Z M6,19 C7.65685425,19 9,20.3431458 9,22 C9,23.6568542 7.65685425,25 6,25 C4.34314575,25 3,23.6568542 3,22 C3,20.3431458 4.34314575,19 6,19 Z M20,13 C18.8954305,13 18,13.8954305 18,15 C18,16.1045695 18.8954305,17 20,17 C21.1045695,17 22,16.1045695 22,15 C22,13.8954305 21.1045695,13 20,13 Z M20,12 C21.6568542,12 23,13.3431458 23,15 C23,16.6568542 21.6568542,18 20,18 C18.3431458,18 17,16.6568542 17,15 C17,13.3431458 18.3431458,12 20,12 Z M13,13 C11.8954305,13 11,13.8954305 11,15 C11,16.1045695 11.8954305,17 13,17 C14.1045695,17 15,16.1045695 15,15 C15,13.8954305 14.1045695,13 13,13 Z M13,12 C14.6568542,12 16,13.3431458 16,15 C16,16.6568542 14.6568542,18 13,18 C11.3431458,18 10,16.6568542 10,15 C10,13.3431458 11.3431458,12 13,12 Z M6,13 C4.8954305,13 4,13.8954305 4,15 C4,16.1045695 4.8954305,17 6,17 C7.1045695,17 8,16.1045695 8,15 C8,13.8954305 7.1045695,13 6,13 Z M6,12 C7.65685425,12 9,13.3431458 9,15 C9,16.6568542 7.65685425,18 6,18 C4.34314575,18 3,16.6568542 3,15 C3,13.3431458 4.34314575,12 6,12 Z" />
                                         </svg>
 
 
@@ -212,7 +172,7 @@ require 'header.php';
                                         <div class="c-link-block__content u-content-pad--md">
                                             <b>
                                                 Upcoming Events - FLOW <br>
-                                                Engage with us online - <div class="m-site-info__social">
+                                                Engage With Us Online : <div class="m-site-info__social">
                                                     <h3 class="u-sr-only" id="footer-social-footer">Social Links</h3>
                                                     <ul class="m-site-info__social-links"
                                                         aria-labelledby="footer-social-footer">
@@ -247,9 +207,7 @@ require 'header.php';
                                                                     </g>
                                                                 </svg>
                                                             </a></li>
-                                                        <li><a 
-                                                                ><svg
-                                                                    xmlns="http://www.w3.org/2000/svg" width="6"
+                                                        <li><a><svg xmlns="http://www.w3.org/2000/svg" width="6"
                                                                     height="2" viewBox="0 0 101 23">
                                                                     <title>Youtube</title>
                                                                     <path
@@ -261,33 +219,18 @@ require 'header.php';
                                                                 </svg>
                                                             </a></li>
                                                     </ul>
-                                                </div> 
+                                                </div>
                                                 <br>
-                                                Contact us - +233504685762 </b>
+                                                Contact Anagkazo Alumni: +233504685762 </b>
                                         </div>
 
                                     </div>
 
 
                                 </div>
-                                <div class="m-billboard__image o-col o-col-sm-md-6">
-                                    <span class="o-img-shadow o-img-shadow--white u-watch">
-                                        <span class="o-img-shadow__shadow"></span>
-
-
-
-
-                                        <img src="sites/default/files/styles/billboard_image/public/2019-05/17-909-harvard2017-21454ab.jpg?h=06ac0d8c&amp;itok=8eu0ZKnl"
-                                            width="1000" height="610" alt="community picture" typeof="foaf:Image" />
-                                        <noscript><img
-                                                src="sites/default/files/styles/billboard_image/public/2019-05/17-909-harvard2017-21454ab.jpg?h=06ac0d8c&amp;itok=8eu0ZKnl"
-                                                alt="community picture" /></noscript>
-                                    </span>
-                                </div>
                             </div>
                         </div>
                     </section>
-
 
                     <section id="giving" class="m-content-section c-panel--box">
                         <span class="c-panel--box-outline"></span>
@@ -301,25 +244,26 @@ require 'header.php';
                                     </h2>
                                 </div>
 
-
                                 <div class="c-wysiwyg-section ">
+                                    <h3>Online</h3>
 
+                                    <p>Make a gift now by credit card <br> <br>
 
-                                    <p>Make a gift now by credit card <br>
+                                        <b>Bank wire</b><br> <br>
+                                        Bank wire instructions for charitable gifts only to: <br> <br>
 
-                                        Bank wire <br>
-                                        Bank wire instructions for charitable gifts only to <br>
-                                        
                                         Receiving Bank Name: <br>
                                         Receiving Bank Address: <br>
                                         Beneficiary Legal Account Name: <br>
                                         Account #: <br>
-                                        Receiving Bank SWIFT Code: <br> 
-                                        Memo/Reference: Fundraiser 5-Digit Phone # (e.g. X-XXXX), Donor Last Name, Gift Designation <br>
-                                        
+                                        Receiving Bank SWIFT Code: <br>
+                                        Memo/Reference: Fundraiser 5-Digit Phone # (e.g. X-XXXX), Donor Last Name, Gift
+                                        Designation <br> <br>
+
                                         Confirmation email <br>
-                                        IMPORTANT - To ensure accurate handling, donors should send a confirmation email with the following details: <br>
-                                        
+                                        IMPORTANT - To ensure accurate handling, donors should send a confirmation email
+                                        with the following details: <br> <br>
+
                                         Donor Name <br>
                                         Contact Phone Number <br>
                                         Date the wire was sent <br>
@@ -328,7 +272,7 @@ require 'header.php';
                                         Was a wiring fee deducted from the wire amount?</p>
 
                                 </div>
-                                
+
                             </div>
                         </div>
                     </section>

@@ -10,7 +10,7 @@
                             Helpful Links</h3>
                         <ul class="m-site-info__links-list">
                             <li><a href="contact.php" class="internal-link label-sans u-under-link">Contact
-                                    Us</a>
+                                    ABMTC</a>
                             </li>
                             <li><a  class="external-link label-sans u-under-link">Applicant
                                     Portal</a>
@@ -44,10 +44,11 @@
                         <ol class="m-site-info__addresses-list" aria-labelledby="footer-addresses-footer">
                             <li>
                                 <address>
+                                    <!-- TODO: remove A. -->
                                     <p><strong>Anagkazo Bible and Ministry Training Center</strong></p>
-                                    <p class="label-sans"> Mampong, WR4X+64</p>
+                                    <p class="label-sans"> Akwapim-Mampong, Ghana. WR4X+64</p>
                                     <p>abmtcrecruitment@gmail.com</p>
-                                    <p>+233557467460
+                                   WhatsApp: <p>+233557467460
                                         or
                                         +233594900295</p>
                                 </address>
@@ -141,5 +142,6 @@
 
 </body>
 <script src="assets/js/1.js"></script>
+<script src="assets/js/2.js"></script>
 
 </html>

@@ -30,12 +30,8 @@
                       srcset="/sites/default/files/styles/page_header_medium/public/2019-07/banner_about_still.jpg?h=bde28bee&amp;itok=klG1A58b 1x"
                       media="screen and (min-width: 47.5em)" type="image/jpeg" />
                     <!--[if IE 9]></video><![endif]-->
-                    <img
-                      src="assets/img/front_banner_2.jpg"
-                      alt="" typeof="foaf:Image" />
-                    <noscript><img
-                        src="assets/img/front_banner_2.jpg"
-                        alt="" /></noscript>
+                    <img src="assets/img/front_anagkazo.jpg" alt="" typeof="foaf:Image" />
+                    <noscript><img src="assets/img/front_anagkazo.jpg" alt="" /></noscript>
                   </picture>
 
 
@@ -43,7 +39,7 @@
                 </div>
 
                 <div class="c-ambient-video__video">
-                  <img class="c-ambient-video__video-file" src="assets/img/front_banner_2.jpg" aria-hidden="true">
+                  <img class="c-ambient-video__video-file" src="assets/img/front_anagkazo.jpg" aria-hidden="true">
                   </imgP>
                 </div>
 
@@ -110,12 +106,17 @@
                       </li>
                       <li>
                         <a class="js-smooth-anchor" href="#founder-bdhm">
-                          Bishop Dag Heward-Mills
+                          Chancellor - Bishop Dag Heward-Mills
                         </a>
                       </li>
                       <li>
                         <a class="js-smooth-anchor" href="#campus">
                           Campus
+                        </a>
+                      </li>
+                      <li>
+                        <a class="js-smooth-anchor" href="admissions.php">
+                          Apply Now
                         </a>
                       </li>
                     </ul>
@@ -141,7 +142,8 @@
                 <div class="c-wysiwyg-section ">
 
 
-                  <p>ABMTC was built to preach the word of God in such a way that those who come here will have more
+                  <p>Anagkazo Bible and Ministry Training Center was built to preach the word of God in such a way that
+                    those who come here will have more
                     faith and believe more in their calling and in the Gospel of Jesus Christ.</p>
 
                 </div>
@@ -285,10 +287,6 @@
                   </div>
                 </div>
 
-
-
-
-
                 <section id="modal--fwv--the-harvard-college-" class="c-modal c-remote-video-modal " role="dialog"
                   aria-modal="false" aria-hidden="true" aria-labelledby="modal--fwv--the-harvard-college---title">
                   <button aria-label="Close Video Modal"
@@ -322,15 +320,6 @@
           </section>
 
 
-
-
-
-
-
-
-
-
-
           <section id="mission" class="o-two-block  o-two-block--hidden-title  c-panel--pad--large m-two-block-content">
 
 
@@ -362,18 +351,11 @@
 
                     </div>
 
-
-
                   </div>
 
                 </div>
 
                 <div class="o-two-block__block o-two-block__block--right ">
-
-
-
-
-
 
                   <div class="c-stat-block c-stat-block c-stat-block--">
                     <h3 class="c-stat-block__title">
@@ -470,8 +452,6 @@
             </div>
           </section>
 
-
-
           <section id="founder-bdhm"
             class="o-two-block  o-two-block--hidden-title  c-panel--pad--large m-two-block-content">
 
@@ -480,7 +460,7 @@
 
               <h2 class="u-sr-only">
 
-                Bishop Dag Heward-Mills
+                Chancellor - Bishop Dag Heward-Mills
               </h2>
 
               <div class="o-two-block__blocks">
@@ -490,7 +470,7 @@
                   <div class="c-link-block c-link-block--content m-two-block-content">
                     <h3 id="group-founder-bdhm" class="c-link-block__title u-content-pad--title title-serif--large">
 
-                      Bishop Dag Heward-Mills
+                      Chancellor - Bishop Dag Heward-Mills
                     </h3>
 
                     <div class="c-link-block__content u-content-pad--md">
@@ -501,7 +481,8 @@
                         Bishop
                         of the United Denomination Originating from the Lighthouse Group of Church (UD-OLGC); Bishop Dag
                         Heward-Mills.</p> <br>
-                      <p>He believes in the whole Bible and believe that many are called, and that many have the
+                      <p>The Chancellor - Bishop Dag Heward-Mills believes in the whole Bible and believes that many are
+                        called, and that many have the
                         ministry of a shepherd. </p> <br>
 
                       <p>He believes in the anointing of The Holy Spirit, the supernatural gifts of ministry, miracles,
@@ -514,9 +495,6 @@
 
                     </div>
 
-
-
-
                     <nav class="c-link-group u-content-pad "
                       aria-labelledby="group-founder-bdhm link-group-5e80ac180e94c">
                       <h4 id="link-group-5e80ac180e94c" class="c-link-group__title title-serif--small">
@@ -524,24 +502,16 @@
                         Quick Links
                       </h4>
                       <ul class="c-link-group__list">
-                        <li><a href="#" class="u-under-link">About The Chancellor</a></li>
+                        <li><a href="#" class="u-under-link">About The Chancellor - Bishop Dag Heward-Mills</a></li>
                         <li><a href="#" class="u-under-link">The Chancellor on Facebook</a></li>
                       </ul>
                     </nav>
-
-
-
-
 
                   </div>
 
                 </div>
 
                 <div class="o-two-block__block o-two-block__block--right ">
-
-
-
-
 
                   <div class="c-teaser-medium">
                     <a href="#" class="c-teaser-medium__link">
@@ -576,50 +546,258 @@
             </div>
           </section>
 
-          <section id="college-offices"
+          <section id="campus" class="m-media-grid c-panel--black   ">
+            <div class="o-container-fluid c-panel--line">
+              <div class="m-media-grid__columns">
+                <div class="m-media-grid__text">
+                  <div class="o-row o-row--start">
+                    <div class="c-panel__title-icon o-col-2">
+                      <span class="title-serif--xl">
+
+                        <svg xmlns="http://www.w3.org/2000/svg" width="37" height="31" viewBox="0 0 37 31">
+                          <title>Campus</title>
+                          <path
+                            d="M0,31 L0,29 L37,29 L37,31 L0,31 Z M30,6.51792998 L30,30 L28.5,30 L28.5,5 L35,5 L35,30 L33.5,30 L33.5,6.51792998 L30,6.51792998 Z M3.49834499,6.53381231 L3.49834499,30 L2,30 L2,5 L8.6029153,5 L8.6029153,30 L7,30 L7,6.53381231 L3.49834499,6.53381231 Z M8,12 L8,10.3783953 L29,10.3783953 L29,12 L8,12 Z M18.1585014,4.81535945 L8.44211641,9.60463029 L7.55788359,8.10304232 L18.1293155,2.89231317 L29.4183336,8.09170653 L28.5816664,9.61596609 L18.1585014,4.81535945 Z M24,11 L25.6768909,11 L25.6768909,30 L24,30 L24,11 Z M11.5,11 L13,11 L13,30 L11.5,30 L11.5,11 Z M33.4762171,3 L30,3 L30,1 L33.4762171,1 L33.4762171,3 Z M7,3 L3.5,3 L3.5,1 L7,1 L7,3 Z" />
+                        </svg>
+                      </span>
+                    </div>
+                    <div class="c-panel__title o-col-9 o-col-sm-10">
+                      <h2 class="m-media-grid__title title-serif--xl " id="m-media-grid-title-campus">
+
+                        Campus
+                      </h2>
+                      <div class="m-media-grid__subtitle">
+
+                        Anagkazo campus, located in Akwapim-Mampong, Ghana has amazing facilities such as 100% Answered
+                        Prayer Gardens, The Gallery, Machaneh Plaza, Library of The Anointing, The Great Hall, The Golf
+                        Course and various accomodation.
+                      </div>
+                      <div class="m-media-grid__cta">
+
+                        <div class="c-button--link-wrapper c-button c-button--on-color c-button--with-icon">
+
+
+                          <a href="campus.php">Learn more about our campus</a>
+
+                          <span class="c-button__icon" aria-hidden="true">
+                            <svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1"
+                              xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+                              <path
+                                d="M13.2928928,8 L9.26520022,3.97230743 L9.972307,3.26520065 L15.2100737,8.50296733 L9.96639725,13.6597176 L9.26522492,12.9467258 L13.2784797,9 L0,9 L0,8 L13.2928928,8 Z">
+                              </path>
+                            </svg>
+                          </span>
+                        </div>
+
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+                <ul aria-labelledby="m-media-grid-title-campus" class="c-teaser-list--black">
+                  <li class="m-media-grid__item">
+                    <figure class="c-media c-media--wysiwyg_inline">
+                      <div class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
+
+                        <img src="assets/img/golf_course.jpg" width="800" height="533"
+                          alt="Prayer gardens entrance view" typeof="foaf:Image" />
+                        <noscript><img src="assets/img/golf_course.jpg" alt="Prayer gardens entrance view" /></noscript>
+
+                      </div>
+                      <figcaption
+                        class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
+                        <p><strong>
+
+                            The Golf Course
+                          </strong></p>
+                      </figcaption>
+                    </figure>
+                    </figure>
+                  </li>
+                  <li class="m-media-grid__item">
+
+                    <figure class="c-media c-media--wysiwyg_inline">
+                      <div class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
+
+
+                        <img src="assets/img/machaneh_plaza.jpg" width="800" height="534" alt="Machaneh Plaza "
+                          typeof="foaf:Image" />
+                        <noscript><img src="assets/img/machaneh_plaza.jpg" alt="Machaneh Plaza " /></noscript>
+
+                      </div>
+                      <figcaption
+                        class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
+                        <p><strong>
+
+                            Machaneh Plaza
+                          </strong></p>
+                      </figcaption>
+                    </figure>
+                  </li>
+                  <li class="m-media-grid__item">
+
+                    <figure class="c-media c-media--wysiwyg_inline">
+                      <div class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
+
+                        <img src="assets/img/bdhm_pres.jpeg" width="800" height="533"
+                          alt="Bishop with the president of Ghana" typeof="foaf:Image" />
+                        <noscript><img src="assets/img/bdhm_pres.jpeg"
+                            alt="Bishop with the president of Ghana" /></noscript>
+
+                      </div>
+                      <figcaption
+                        class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
+                        <p><strong>
+
+                            The Chancellor with the President of Ghana at the Grand Opening of the Library of the
+                            Anointing
+                          </strong></p>
+                      </figcaption>
+
+                    </figure>
+                  </li>
+
+                </ul>
+              </div>
+              <div class="m-media-grid__columns">
+                <div class="m-media-grid__text">
+                  <div class="o-row o-row--start">
+                    <div class="c-panel__title-icon o-col-2">
+                      <span class="title-serif--xl">
+
+                        <svg xmlns="http://www.w3.org/2000/svg" width="37" height="31" viewBox="0 0 37 31">
+                          <title>Campus</title>
+                          <path
+                            d="M0,31 L0,29 L37,29 L37,31 L0,31 Z M30,6.51792998 L30,30 L28.5,30 L28.5,5 L35,5 L35,30 L33.5,30 L33.5,6.51792998 L30,6.51792998 Z M3.49834499,6.53381231 L3.49834499,30 L2,30 L2,5 L8.6029153,5 L8.6029153,30 L7,30 L7,6.53381231 L3.49834499,6.53381231 Z M8,12 L8,10.3783953 L29,10.3783953 L29,12 L8,12 Z M18.1585014,4.81535945 L8.44211641,9.60463029 L7.55788359,8.10304232 L18.1293155,2.89231317 L29.4183336,8.09170653 L28.5816664,9.61596609 L18.1585014,4.81535945 Z M24,11 L25.6768909,11 L25.6768909,30 L24,30 L24,11 Z M11.5,11 L13,11 L13,30 L11.5,30 L11.5,11 Z M33.4762171,3 L30,3 L30,1 L33.4762171,1 L33.4762171,3 Z M7,3 L3.5,3 L3.5,1 L7,1 L7,3 Z" />
+                        </svg>
+                      </span>
+                    </div>
+                    <div class="c-panel__title o-col-9 o-col-sm-10">
+                      <h2 class="m-media-grid__title title-serif--xl " id="m-media-grid-title-campus">
+
+                        Contact Anagkazo Campus Facility
+                      </h2>
+                      <div class="m-media-grid__subtitle">
+
+                        <!-- description -->
+                        To make an enquiry about having a Retreat, Camp, Conference, Wedding, Golf Game or Tour
+                            Please contact:
+                            <p>
+                              +233501068968 <br> anagkazocampus@gmail.com
+                      </div>
+                     
+                    </div>
+                  </div>
+                </div>
+
+                <ul aria-labelledby="m-media-grid-title-campus" class="c-teaser-list--black">
+                  <li class="m-media-grid__item">
+                    <figure class="c-media c-media--wysiwyg_inline">
+                      <div class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
+
+                        <img src="assets/img/golf_course.jpg" width="800" height="533"
+                          alt="Prayer gardens entrance view" typeof="foaf:Image" />
+                        <noscript><img src="assets/img/golf_course.jpg" alt="Prayer gardens entrance view" /></noscript>
+
+                      </div>
+                      <figcaption
+                        class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
+                        <p><strong>
+
+                            The Golf Course
+                          </strong></p>
+                      </figcaption>
+                    </figure>
+                    </figure>
+                  </li>
+                  <li class="m-media-grid__item">
+
+                    <figure class="c-media c-media--wysiwyg_inline">
+                      <div class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
+
+
+                        <img src="assets/img/machaneh_plaza.jpg" width="800" height="534" alt="Machaneh Plaza "
+                          typeof="foaf:Image" />
+                        <noscript><img src="assets/img/machaneh_plaza.jpg" alt="Machaneh Plaza " /></noscript>
+
+                      </div>
+                      <figcaption
+                        class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
+                        <p><strong>
+
+                            Machaneh Plaza
+                          </strong></p>
+                      </figcaption>
+                    </figure>
+                  </li>
+                  <li class="m-media-grid__item">
+
+                    <figure class="c-media c-media--wysiwyg_inline">
+                      <div class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
+
+                        <img src="assets/img/bdhm_pres.jpeg" width="800" height="533"
+                          alt="Bishop with the president of Ghana" typeof="foaf:Image" />
+                        <noscript><img src="assets/img/bdhm_pres.jpeg"
+                            alt="Bishop with the president of Ghana" /></noscript>
+
+                      </div>
+                      <figcaption
+                        class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
+                        <p><strong>
+
+                            The Chancellor with the President of Ghana at the Grand Opening of the Library of the
+                            Anointing
+                          </strong></p>
+                      </figcaption>
+
+                    </figure>
+                  </li>
+
+                </ul>
+              </div>
+            </div>
+
+          </section>
+
+          <section id="virtual-tour"
             class="o-two-block  o-two-block--hidden-title  c-panel--pad--large m-two-block-content">
 
 
             <div class="o-container-fluid ">
 
               <h2 class="u-sr-only">
-
-                Campus Offices
+                Contact Anagkazo Campus Facility
               </h2>
 
               <div class="o-two-block__blocks">
                 <div class="o-two-block__block o-two-block__block--left o-two-block__block--grey">
 
-
                   <div class="c-link-block c-link-block--content m-two-block-content">
                     <h3 id="group-college-offices" class="c-link-block__title u-content-pad--title title-serif--large">
 
-                      Campus Offices
+                      Contact Anagkazo Campus Facility
                     </h3>
-
-                    <div class="c-link-block__content u-content-pad--md">
-
-                      The staff of the campus are, for the most part, incredibly knowledgeable and care about students.
-                      The lectures are great, and one will agree that there are many reasons why Anagkazo is highly
-                      esteemed...
-
-                    </div>
-
                     <nav class="c-link-group u-content-pad "
                       aria-labelledby="group-college-offices link-group-5e80ac18384a6">
                       <h4 id="link-group-5e80ac18384a6" class="c-link-group__title title-serif--small">
 
-                        Quick Links
+                        <div class="c-panel__title o-col-9 o-col-sm-10">
+                          <h2 class="m-media-grid__title title-serif--xl " id="m-media-grid-title-why-harvard">
+                          </h2>
+                          <div class="m-media-grid__subtitle">
+
+                            To make an enquiry about having a Retreat, Camp, Conference, Wedding, Golf Game or Tour
+                            Please contact:
+                            <p>
+                              +233501068968 <br> anagkazocampus@gmail.com
+                            </p>
+                          </div>
+                        </div>
                       </h4>
-                      <ul class="c-link-group__list">
-                        <li><a href="#" class="u-under-link">Contact us</a></li>
-                        <li><a href="#" class="u-under-link">Student Life</a></li>
-                      </ul>
                     </nav>
                   </div>
 
                 </div>
-
                 <div class="o-two-block__block o-two-block__block--right ">
 
                   <div class="c-teaser-medium">
@@ -644,12 +822,12 @@
                   </div>
 
                 </div>
+
               </div>
 
 
             </div>
           </section>
-
         </div>
 
       </div>

@@ -33,16 +33,16 @@ require 'header.php';
 
                         <picture>
                             <!--[if IE 9]><video style="display: none;"><![endif]-->
-                            <source srcset="assets/img/front_anagkazo.jpg" media="screen and (min-width: 87.5em)"
+                            <source srcset="assets/img/campus_banner.jpeg" media="screen and (min-width: 87.5em)"
                                 type="image/jpeg" />
-                            <source srcset="assets/img/front_anagkazo.jpg" media="screen and (min-width: 67.5em)"
+                            <source srcset="assets/img/campus_banner.jpeg" media="screen and (min-width: 67.5em)"
                                 type="image/jpeg" />
-                            <source srcset="assets/img/front_anagkazo.jpg" media="screen and (min-width: 47.5em)"
+                            <source srcset="assets/img/campus_banner.jpeg" media="screen and (min-width: 47.5em)"
                                 type="image/jpeg" />
                             <!--[if IE 9]></video><![endif]-->
-                            <img src="assets/img/front_anagkazo.jpg" alt="View of Campus from Charles River"
+                            <img src="assets/img/campus_banner.jpeg" alt="View of Campus from Charles River"
                                 typeof="foaf:Image" />
-                            <noscript><img src="assets/img/front_anagkazo.jpg"
+                            <noscript><img src="assets/img/campus_banner.jpeg"
                                     alt="View of Campus from Charles River" /></noscript>
                         </picture>
 
@@ -83,11 +83,6 @@ require 'header.php';
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="js-smooth-anchor" href="#lecture-halls">
-                                                    Lecture Halls
-                                                </a>
-                                            </li>
-                                            <li>
                                                 <a class="js-smooth-anchor" href="#library-anointing">
                                                     Library of the Anointing
                                                 </a>
@@ -102,11 +97,38 @@ require 'header.php';
                                                     Campus Map
                                                 </a>
                                             </li>
+                                            <li>
+                                                <a class="js-smooth-anchor" href="#map">
+                                                    Apply
+                                                </a>
+                                            </li>
                                         </ul>
                                     </nav>
                                 </div>
 
 
+
+                            </div>
+                            <div id="overview"
+                                class="page-header__content-lead o-two-block__block o-two-block__block--right o-two-block__block--white">
+                                <h2 class="u-sr-only">
+
+                                    Overview
+                                </h2>
+                                <p class="page-header__lead-paragraph">
+
+                                    Anagkazo
+                                </p>
+
+
+                                <div class="c-wysiwyg-section ">
+
+
+                                    <p>Welcome to the beautful campus of Anagkazo Bible and Ministry Training Center.
+                                        Set in the heart of the Akwapim Mountains, we provide yuo with a quiet and
+                                        tranquil environment to study, pray and seek God.</p>
+
+                                </div>
 
                             </div>
 
@@ -134,8 +156,7 @@ require 'header.php';
 
                                                 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg"
                                                     xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-                                                    viewBox="0 0 492.388 492.388"
-                                                    width="60" height="60"
+                                                    viewBox="0 0 492.388 492.388" width="60" height="60"
                                                     style="enable-background:new 0 0 492.388 492.388;"
                                                     xml:space="preserve">
                                                     <g>
@@ -193,8 +214,11 @@ require 'header.php';
                                                 The 100% Answered Prayer Gardens
                                             </h2>
                                             <div class="m-media-grid__subtitle">
-
-                                              " Pray without ceasing "
+                                                <p>
+                                                    Open 24/7
+                                                </p> <br>
+                                                1 Thessalonians 5:17 <br>
+                                                " Pray without ceasing "
                                             </div>
                                             <div class="m-media-grid__cta">
 
@@ -225,12 +249,8 @@ require 'header.php';
                                                 class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
                                                 <p><strong>
 
-                                                        Entrance
+                                                        The Prayer Gardens Entrance
                                                     </strong></p>
-                                                <p>
-
-                                                    The prayer gardens entrance
-                                                    <em></em></p>
                                             </figcaption>
                                         </figure>
                                     </li>
@@ -256,76 +276,52 @@ require 'header.php';
                                             <figcaption
                                                 class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
                                                 <p><strong>
-
-                                                        Greater Love Chapel
+                                                        The Greater Love Chapel located in the Prayer Gardens
                                                     </strong></p>
-                                                <p>
-
-                                                    The Greater Love Chapel located in the Prayer gardens in Anagkazo
-                                                    <em></em></p>
                                             </figcaption>
                                         </figure>
                                     </li>
                                     <li class="m-media-grid__item">
 
-
-
                                         <figure class="c-media c-media--wysiwyg_inline">
                                             <div
                                                 class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
-
 
                                                 <img src="assets/img/gardens_trees.jpg" width="800" height="533"
                                                     alt="Prayer garden tree" typeof="foaf:Image" />
                                                 <noscript><img src="assets/img/gardens_trees.jpg"
                                                         alt="Prayer garden tree" /></noscript>
 
-
-
                                             </div>
-
 
                                             <figcaption
                                                 class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
                                                 <p><strong>
-
-                                                        Gardens
+                                                        The Prayer Gardens View facing Wise As Serpent Lodge
                                                     </strong></p>
-                                                <p>
-
-                                                    The prayer gardens view facing the lodges
-                                                    <em></em></p>
                                             </figcaption>
                                         </figure>
                                     </li>
                                     <li class="m-media-grid__item">
 
-
-
                                         <figure class="c-media c-media--wysiwyg_inline">
                                             <div
                                                 class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
 
-
-                                                <img src="assets/img/side_wedding.jpg" width="800" height="800"
-                                                    alt="The side view of the Greater Love Chapel" typeof="foaf:Image" />
-                                                <noscript><img src="assets/img/side_wedding.jpg"
-                                                        alt="The side view of the Greater Love Chapel" /></noscript>
-
-
-
+                                                <img src="assets/img/shalet.jpeg" width="800" height="800"
+                                                    alt="Prayer Gardens Shalet" typeof="foaf:Image" />
+                                                <noscript><img src="assets/img/shalet.jpeg"
+                                                        alt="Prayer Gardens Shalet" /></noscript>
                                             </div>
-
 
                                             <figcaption
                                                 class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
                                                 <p><strong>
 
-                                                        The Greater Love Chapel
+                                                        Prayer Gardens Chalet
                                                     </strong></p>
                                                 <p>
 
-                                                    The side view of the Greater Love Chapel in the prayer gardens
                                                     <em></em></p>
                                             </figcaption>
                                         </figure>
@@ -357,7 +353,8 @@ require 'header.php';
                                     </h2>
                                     <p class="m-billboard__body ">
 
-                                        The Library of Anointing is a Christian Centre for Historic Research Into World Evangelism and Global Missions
+                                        The Library of Anointing is a Christian Centre for Historic Research Into World
+                                        Evangelism and Global Missions.
                                     </p>
 
 
@@ -385,27 +382,17 @@ require 'header.php';
                                     <span class="o-img-shadow o-img-shadow--white u-watch">
                                         <span class="o-img-shadow__shadow"></span>
 
-
-
-
-                                        <img src="../sites/default/files/styles/billboard_image/public/2019-05/20170907_r.leopoldina_torres_img_29942eb5.jpg?itok=Q-jNSQ0K"
-                                            width="1000" height="610" alt="student looking at Art in the art museum"
-                                            typeof="foaf:Image" />
-                                        <noscript><img
-                                                src="../sites/default/files/styles/billboard_image/public/2019-05/20170907_r.leopoldina_torres_img_29942eb5.jpg?itok=Q-jNSQ0K"
-                                                alt="student looking at Art in the art museum" /></noscript>
-
-
-
-
-
+                                        <img src="assets/img/idahosa.jpeg" width="1000" height="610"
+                                            alt="Arcbishop Benson Idahosa" typeof="foaf:Image" />
+                                        <noscript><img src="assets/img/idahosa.jpeg"
+                                                alt="Arcbishop Benson Idahosa" /></noscript>
                                     </span>
                                 </div>
                             </div>
                         </div>
                     </section>
 
-                    <section id="lecture-halls" class="m-media-grid c-panel--red" style="background-color: #1f0509;">
+                    <section id="gallery" class="m-media-grid c-panel--red">
                         <div class="o-container-fluid c-panel--line">
                             <div class="m-media-grid__columns">
                                 <div class="m-media-grid__text">
@@ -496,17 +483,93 @@ require 'header.php';
                                             </h2>
                                             <div class="m-media-grid__subtitle">
 
-                                                The Gallery shows the different aspects of Bishop Dag Heward-Mills Ministries. 
-                                            </div>
-                                            <div class="m-media-grid__cta">
-
-
+                                                The Gallery shows the different aspects of Bishop Dag Heward-Mills
+                                                Ministries.
                                             </div>
                                         </div>
                                     </div>
                                 </div>
+                                <ul aria-labelledby="m-media-grid-title-campus" class="c-teaser-list--black">
+                                    <li class="m-media-grid__item">
 
-                               
+                                        <figure class="c-media c-media--wysiwyg_inline">
+                                            <div
+                                                class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
+
+                                                <img src="assets/img/gallery_2.jpeg" width="800" height="533"
+                                                    alt="Prayer gardens entrance view" typeof="foaf:Image" />
+                                                <noscript><img src="assets/img/gallery_2.jpeg"
+                                                        alt="Prayer gardens entrance view" /></noscript>
+                                            </div>
+                                        </figure>
+                                        </figure>
+                                    </li>
+
+                                </ul>
+                            </div>
+                    </section> <br>
+                    <section id="gallery" class="m-media-grid c-panel--black">
+                        <div class="o-container-fluid c-panel--line">
+                            <div class="m-media-grid__columns">
+                                <div class="m-media-grid__text">
+                                    <div class="o-row o-row--start">
+                                        <div class="c-panel__title-icon o-col-2">
+                                            <span class="title-serif--xl">
+
+                                                <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                                viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+                                           <style type="text/css">
+                                               .st0{fill:#77B3D4;}
+                                               .st1{opacity:0.2;}
+                                               .st2{fill:#231F20;}
+                                               .st3{fill:#FFFFFF;}
+                                           </style>
+                                           <g id="Layer_1">
+                                               <g>
+                                                   <circle class="st0" cx="32" cy="32" r="32"/>
+                                               </g>
+                                               <g class="st1">
+                                                   <g>
+                                                       <path class="st2" d="M29,25.3c-0.4-4.8-5.4-7.1-5.6-7.2C23.1,18,22.9,18,22.7,18c-5.8,1-6.6,4.3-6.7,4.5c0,0.2,0,0.4,0,0.6
+                                                           c6.9,21.4,21.2,25.3,25.9,26.6c0.4,0.1,0.7,0.2,0.9,0.3c0.1,0,0.2,0.1,0.3,0.1c0.2,0,0.3,0,0.5-0.1c0.1-0.1,3.5-1.7,4.4-6.9
+                                                           c0-0.2,0-0.5-0.1-0.7c-0.1-0.1-1.9-3.5-6.8-4.7c-0.3-0.1-0.7,0-1,0.2c-1.6,1.3-3.7,2.7-4.6,2.9c-6.2-3-9.7-8.9-9.8-10
+                                                           c-0.1-0.6,1.3-2.8,3-4.6C28.9,26,29,25.6,29,25.3z"/>
+                                                   </g>
+                                               </g>
+                                               <g>
+                                                   <g>
+                                                       <path class="st3" d="M29,23.3c-0.4-4.8-5.4-7.1-5.6-7.2C23.1,16,22.9,16,22.7,16c-5.8,1-6.6,4.3-6.7,4.5c0,0.2,0,0.4,0,0.6
+                                                           c6.9,21.4,21.2,25.3,25.9,26.6c0.4,0.1,0.7,0.2,0.9,0.3c0.1,0,0.2,0.1,0.3,0.1c0.2,0,0.3,0,0.5-0.1c0.1-0.1,3.5-1.7,4.4-6.9
+                                                           c0-0.2,0-0.5-0.1-0.7c-0.1-0.1-1.9-3.5-6.8-4.7c-0.3-0.1-0.7,0-1,0.2c-1.6,1.3-3.7,2.7-4.6,2.9c-6.2-3-9.7-8.9-9.8-10
+                                                           c-0.1-0.6,1.3-2.8,3-4.6C28.9,24,29,23.6,29,23.3z"/>
+                                                   </g>
+                                               </g>
+                                           </g>
+                                           <g id="Layer_2">
+                                           </g>
+                                           </svg>
+
+                                            </span>
+                                        </div>
+                                        <div class="c-panel__title o-col-9 o-col-sm-10">
+                                            <h2 class="m-media-grid__title title-serif--xl "
+                                                id="m-media-grid-title-why-harvard">
+
+                                                Contact Anagkazo Campus Facility
+                                            </h2>
+                                            <div class="m-media-grid__subtitle">
+
+                                                To make an enquiry about having a Retreat, Camp, Conference, Wedding, Golf Game or Tour Please contact:
+                                                <p>
+                                                    +233501068968 <br> anagkazocampus@gmail.com
+                                                </p>
+                                            </div>
+                                            
+                                        </div>
+                                    </div>
+                                </div>
+
+
                             </div>
                     </section>
 
