@@ -681,9 +681,9 @@
 
                         <!-- description -->
                         To make an enquiry about having a Retreat, Camp, Conference, Wedding, Golf Game or Tour
-                            Please contact:
-                            <p>
-                              +233501068968 <br> anagkazocampus@gmail.com
+                            please contact: 
+                            <p><br>
+                              +233501068968 <br> <br> anagkazocampus@gmail.com
                       </div>
                      
                     </div>
@@ -692,141 +692,33 @@
 
                 <ul aria-labelledby="m-media-grid-title-campus" class="c-teaser-list--black">
                   <li class="m-media-grid__item">
-                    <figure class="c-media c-media--wysiwyg_inline">
-                      <div class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
-
-                        <img src="assets/img/golf_course.jpg" width="800" height="533"
-                          alt="Prayer gardens entrance view" typeof="foaf:Image" />
-                        <noscript><img src="assets/img/golf_course.jpg" alt="Prayer gardens entrance view" /></noscript>
-
-                      </div>
-                      <figcaption
-                        class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
-                        <p><strong>
-
-                            The Golf Course
-                          </strong></p>
-                      </figcaption>
-                    </figure>
-                    </figure>
+                    <div class="c-teaser-medium">
+                      <a href="#" class="c-teaser-medium__link">
+                        <div class="c-teaser-medium__header c-teaser-header u-watch">
+                          <h3 class="title-serif--medium c-teaser-medium__title">Take a virtual tour</h3>
+  
+                          <span class="c-teaser-medium__arrow" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg"
+                              width="16" height="11" viewBox="0 0 16 11">
+                              <title> </title>
+                              <polygon
+                                points="13.293 4.735 9.265 .707 9.972 0 15.21 5.238 9.966 10.395 9.265 9.682 13.278 5.735 0 5.735 0 4.735" />
+                            </svg>
+                          </span>
+                        </div>
+                        <div class="c-teaser-medium__image">
+  
+                          <img src="assets/img/gate.jpg" width="800" height="588" alt="Main gate" typeof="foaf:Image" />
+                          <noscript><img src="assets/img/gate.jpg" alt="Main gate" /></noscript>
+                        </div>
+                      </a>
+                    </div>
                   </li>
-                  <li class="m-media-grid__item">
 
-                    <figure class="c-media c-media--wysiwyg_inline">
-                      <div class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
-
-
-                        <img src="assets/img/machaneh_plaza.jpg" width="800" height="534" alt="Machaneh Plaza "
-                          typeof="foaf:Image" />
-                        <noscript><img src="assets/img/machaneh_plaza.jpg" alt="Machaneh Plaza " /></noscript>
-
-                      </div>
-                      <figcaption
-                        class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
-                        <p><strong>
-
-                            Machaneh Plaza
-                          </strong></p>
-                      </figcaption>
-                    </figure>
-                  </li>
-                  <li class="m-media-grid__item">
-
-                    <figure class="c-media c-media--wysiwyg_inline">
-                      <div class="c-media__media c-panel-contained--mg-left c-panel-contained--mg-right">
-
-                        <img src="assets/img/bdhm_pres.jpeg" width="800" height="533"
-                          alt="Bishop with the president of Ghana" typeof="foaf:Image" />
-                        <noscript><img src="assets/img/bdhm_pres.jpeg"
-                            alt="Bishop with the president of Ghana" /></noscript>
-
-                      </div>
-                      <figcaption
-                        class="c-media__caption c-panel-contained--mg-left c-panel-contained--mg-right label-sans">
-                        <p><strong>
-
-                            The Chancellor with the President of Ghana at the Grand Opening of the Library of the
-                            Anointing
-                          </strong></p>
-                      </figcaption>
-
-                    </figure>
-                  </li>
 
                 </ul>
               </div>
             </div>
 
-          </section>
-
-          <section id="virtual-tour"
-            class="o-two-block  o-two-block--hidden-title  c-panel--pad--large m-two-block-content">
-
-
-            <div class="o-container-fluid ">
-
-              <h2 class="u-sr-only">
-                Contact Anagkazo Campus Facility
-              </h2>
-
-              <div class="o-two-block__blocks">
-                <div class="o-two-block__block o-two-block__block--left o-two-block__block--grey">
-
-                  <div class="c-link-block c-link-block--content m-two-block-content">
-                    <h3 id="group-college-offices" class="c-link-block__title u-content-pad--title title-serif--large">
-
-                      Contact Anagkazo Campus Facility
-                    </h3>
-                    <nav class="c-link-group u-content-pad "
-                      aria-labelledby="group-college-offices link-group-5e80ac18384a6">
-                      <h4 id="link-group-5e80ac18384a6" class="c-link-group__title title-serif--small">
-
-                        <div class="c-panel__title o-col-9 o-col-sm-10">
-                          <h2 class="m-media-grid__title title-serif--xl " id="m-media-grid-title-why-harvard">
-                          </h2>
-                          <div class="m-media-grid__subtitle">
-
-                            To make an enquiry about having a Retreat, Camp, Conference, Wedding, Golf Game or Tour
-                            Please contact:
-                            <p>
-                              +233501068968 <br> anagkazocampus@gmail.com
-                            </p>
-                          </div>
-                        </div>
-                      </h4>
-                    </nav>
-                  </div>
-
-                </div>
-                <div class="o-two-block__block o-two-block__block--right ">
-
-                  <div class="c-teaser-medium">
-                    <a href="#" class="c-teaser-medium__link">
-                      <div class="c-teaser-medium__header c-teaser-header u-watch">
-                        <h3 class="title-serif--medium c-teaser-medium__title">Take a virtual tour</h3>
-
-                        <span class="c-teaser-medium__arrow" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg"
-                            width="16" height="11" viewBox="0 0 16 11">
-                            <title> </title>
-                            <polygon
-                              points="13.293 4.735 9.265 .707 9.972 0 15.21 5.238 9.966 10.395 9.265 9.682 13.278 5.735 0 5.735 0 4.735" />
-                          </svg>
-                        </span>
-                      </div>
-                      <div class="c-teaser-medium__image">
-
-                        <img src="assets/img/gate.jpg" width="800" height="588" alt="Main gate" typeof="foaf:Image" />
-                        <noscript><img src="assets/img/gate.jpg" alt="Main gate" /></noscript>
-                      </div>
-                    </a>
-                  </div>
-
-                </div>
-
-              </div>
-
-
-            </div>
           </section>
         </div>
 

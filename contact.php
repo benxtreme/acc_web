@@ -20,7 +20,7 @@ require 'header.php';
 
                             <div
                                 class="page-header-plain__title  o-col-sm-11 o-col-sm--offset-1 page-header-plain__title--breadcrumbs page-header__breadcrumbs">
-                                <h1 class="title-serif--medium-xl"><span property="schema:name">Contact Us</span>
+                                <h1 class="title-serif--medium-xl"><span property="schema:name">Contact ABMTC</span>
                                 </h1>
 
                                 <div class="c-breadcrumb">
@@ -81,11 +81,11 @@ require 'header.php';
                                 <div class="c-wysiwyg-section ">
 
 
-                                    <h3>Contact Us by WhatsApp:</h3>
+                                    <h3>Contact ABMTC by WhatsApp:</h3>
                                     <p>+233557467460</p>
                                     <p>+233594900295</p>
 
-                                    <h3>Contact us by Email:</h3>
+                                    <h3>Contact ABMTC by Email:</h3>
                                     <p>abmtcrecruitment@gmail.com</p>
                                 </div>
 
@@ -104,29 +104,7 @@ require 'header.php';
               </h2>
 
               <div class="o-two-block__blocks">
-                <div class="o-two-block__block o-two-block__block--left o-two-block__block--grey">
-
-
-                  <div class="c-link-block c-link-block--content m-two-block-content">
-                    <h3 id="group-college-offices" class="c-link-block__title u-content-pad--title title-serif--large">
-
-                      Virtual Tour
-                    </h3>
-
-
-                    <nav class="c-link-group u-content-pad "
-                      aria-labelledby="group-college-offices link-group-5e80ac18384a6">
-                      <h4 id="link-group-5e80ac18384a6" class="c-link-group__title title-serif--small">
-
-                        Learn more about our Campus
-                      </h4>
-                      <ul class="c-link-group__list">
-                        <li><a href="campus.php" class="u-under-link">Click here</a></li>
-                      </ul>
-                    </nav>
-                  </div>
-
-                </div>
+                
 
                 <div class="o-two-block__block o-two-block__block--right ">
 

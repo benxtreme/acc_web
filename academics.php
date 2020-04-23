@@ -162,13 +162,7 @@ require 'header.php';
                                     <div class="c-teaser-medium">
                                         <a
                                             class="c-teaser-medium__link">
-                                            <div class="c-teaser-medium__header c-teaser-header u-watch">
-                                                <h3 class="title-serif--medium c-teaser-medium__title"><span></span>
-                                                </h3>
-
-                                                <span class="c-teaser-medium__arrow" aria-hidden="true">
-                                                </span>
-                                            </div>
+                                           
                                             <div class="c-teaser-medium__image">
 
                                                 <div class="c-featured-media js-ambient-video-parent">
@@ -335,6 +329,36 @@ require 'header.php';
                                     </div>
 
                                 </div>
+                                <div class="o-two-block__block o-two-block__block--right ">
+
+                                    <div class="c-teaser-medium">
+                                      <a class="c-teaser-medium__link">
+                                        <div class="c-teaser-medium__header c-teaser-header u-watch">
+                                            <h3 class="title-serif--medium c-teaser-medium__title">Bishop Dag Heward-Mills preaching at the First Love Center</h3>
+                    
+                                            <span class="c-teaser-medium__arrow" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg"
+                                                width="16" height="11" viewBox="0 0 16 11">
+                                                <title> </title>
+                                                <polygon
+                                                  points="13.293 4.735 9.265 .707 9.972 0 15.21 5.238 9.966 10.395 9.265 9.682 13.278 5.735 0 5.735 0 4.735" />
+                                              </svg>
+                                            </span>
+                                          </div>
+                                        
+                                        <div class="c-teaser-medium__image">
+                  
+                  
+                  
+                  
+                                          <img src="assets/img/first_love.jpeg" width="800" height="588"
+                                            alt="Founder of ABMTC, Bishop Dag Heward-Mills, preaching at the First Love Center" typeof="foaf:Image" />
+                                          <noscript><img src="assets/img/first_love.jpeg"
+                                              alt="Founder of ABMTC, Bishop Dag Heward-Mills, preaching at the First Love Center" /></noscript>
+                  
+                                        </div>
+                                      </a>
+                                    </div>
+                                  </div>
 
                                 
                             </div>
@@ -365,7 +389,7 @@ require 'header.php';
                                                 </span></span>
                                             <span class="c-stat-block__stat-label">
 
-                                                Program For 9 Months
+                                                Program:  9 Months
                                             </span>
                                         </p>
                                     </li>
@@ -382,7 +406,7 @@ require 'header.php';
                                                 </span></span>
                                             <span class="c-stat-block__stat-label">
 
-                                                Program For 18 Months (sust successfully complete the ordinary program)
+                                                Program:  18 Months (must successfully complete the ordinary program)
                                             </span>
                                         </p>
                                     </li>
@@ -399,7 +423,7 @@ require 'header.php';
                                                 </span></span>
                                             <span class="c-stat-block__stat-label">
 
-                                                Program For 27 Months (must successfully complete the standard program)
+                                                Program:  27 Months (must successfully complete the standard program)
                                             </span>
                                         </p>
                                     </li>
@@ -416,7 +440,7 @@ require 'header.php';
                                             </span>
                                             <span class="c-stat-block__stat-label">
 
-                                                Program For 36 Months (must successfully complete the premium program)
+                                                Program:  36 Months (must successfully complete the premium program)
 
                                             </span>
                                         </p>
@@ -465,7 +489,7 @@ require 'header.php';
                                             <div class="c-wysiwyg-section m-media-grid__subtitle">
 
                                                 <p>
-                                                    The Following subject rotations are treated in each program:
+                                                    The following subject rotations are treated in each program:
                                                 </p>
 
                                             </div>
@@ -484,7 +508,7 @@ require 'header.php';
                                                                 aria-expanded="false" data-targetid="secondary-fields"
                                                                 data-closedelay="10">
 
-                                                                Foundations For The Work Of Ministry
+                                                                Foundations for The Work Of Ministry
 
                                                                 <span class="c-accordion-item__icon"
                                                                     aria-hidden="true"><svg

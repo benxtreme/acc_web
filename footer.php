@@ -32,18 +32,14 @@
                         </ul>
                     </nav>
                 </div>
+                
                 <div class="m-site-info__locations o-col o-col-sm-md-5">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1984.317722858738!2d-0.15199753114823633!3d5.906712773663542!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2s6CQXWR4X%2B64!5e0!3m2!1sen!2sgh!4v1587680152095!5m2!1sen!2sgh" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe> <br>
                     <h3 id="footer-addresses-footer" class="u-sr-only">Important Addresses</h3>
-                    <a  class="m-site-info__addresses-map-link" target="blank"
-                        aria-label="Visit the Harvard Campus Map">
-                        <img src="sites/default/files/portal/harvard-map_1.jpg" alt="Harvard Campus Map"
-                            typeof="foaf:Image" />
-                        <noscript><img src="public://portal/harvard-map_1.jpg" alt="Harvard Campus Map" /></noscript>
-                    </a>
                     <div class="m-site-info__addresses">
-                        <ol class="m-site-info__addresses-list" aria-labelledby="footer-addresses-footer">
+                        <ol class="m-site-info__addresses-list" aria-labelledby="footer-addresses-footer" style="list-style: square;">
                             <li>
-                                <address>
+                                <address style="list-style: square !important">
                                     <!-- TODO: remove A. -->
                                     <p><strong>Anagkazo Bible and Ministry Training Center</strong></p>
                                     <p class="label-sans"> Akwapim-Mampong, Ghana. WR4X+64</p>

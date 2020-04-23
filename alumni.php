@@ -116,7 +116,7 @@ require 'header.php';
                                 <div class="m-content-section__lead">
                                     <h2 class="title-serif--large">
 
-                                        Bringing people together
+                                        Stay Connected
                                     </h2>
                                 </div>
 
@@ -125,8 +125,9 @@ require 'header.php';
 
 
                                     <p>Gather with members of the Anagkazo community at one of the AAA's many events
-                                        held worldwide </p><p></p>
-                                        Connect and network with fellow alumni through the Anagkazo Alumni Directory</p>
+                                        held worldwide. </p>
+                                    <p></p>
+                                    Connect and network with fellow alumni through the Anagkazo Alumni Directory.</p>
 
                                 </div>
 
@@ -172,7 +173,7 @@ require 'header.php';
                                         <div class="c-link-block__content u-content-pad--md">
                                             <b>
                                                 Upcoming Events - FLOW <br>
-                                                Engage With Us Online : <div class="m-site-info__social">
+                                                Engage With Us Online: <div class="m-site-info__social">
                                                     <h3 class="u-sr-only" id="footer-social-footer">Social Links</h3>
                                                     <ul class="m-site-info__social-links"
                                                         aria-labelledby="footer-social-footer">
@@ -244,13 +245,13 @@ require 'header.php';
                                     </h2>
                                 </div>
 
-                                <div class="c-wysiwyg-section ">
-                                    <h3>Online</h3>
+                                <div class="c-wysiwyg-section">
+                                    <h4><b>Online</b></h4>
 
-                                    <p>Make a gift now by credit card <br> <br>
+                                    <p>Make a gift now by credit card. <br> <br>
 
-                                        <b>Bank wire</b><br> <br>
-                                        Bank wire instructions for charitable gifts only to: <br> <br>
+                                        <b>Bank Wire</b> <br> <br>
+                                        Bank wire instructions for charitable gifts only: <br> <br>
 
                                         Receiving Bank Name: <br>
                                         Receiving Bank Address: <br>
@@ -260,16 +261,19 @@ require 'header.php';
                                         Memo/Reference: Fundraiser 5-Digit Phone # (e.g. X-XXXX), Donor Last Name, Gift
                                         Designation <br> <br>
 
-                                        Confirmation email <br>
-                                        IMPORTANT - To ensure accurate handling, donors should send a confirmation email
-                                        with the following details: <br> <br>
+                                        Confirmation Email <br>
+                                        <b>IMPORTANT</b> - To ensure accurate handling, donors should send a
+                                        confirmation email
+                                        with the following details: 
+                                        <ol style="list-style: square;">
+                                            <li> Donor Name </li>
+                                            <li>Contact Phone Number</li>
+                                            <li>Date the wire was sent </li>
+                                            <li>Name of the originating bank </li>
+                                            <li>Amount of the bank wire</li>
+                                            <li>Was a wiring fee deducted from the wire amount?</li>
 
-                                        Donor Name <br>
-                                        Contact Phone Number <br>
-                                        Date the wire was sent <br>
-                                        Name of the originating bank <br>
-                                        Amount of the bank wire <br>
-                                        Was a wiring fee deducted from the wire amount?</p>
+                                        </ol>
 
                                 </div>
 

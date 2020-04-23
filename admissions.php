@@ -98,8 +98,8 @@ require 'header.php';
                                                 </a>
                                             </li>
                                             <li>
-                                                <a class="js-smooth-anchor" href="#scholarhip">
-                                                    Scholarhip
+                                                <a class="js-smooth-anchor" href="#scholarship">
+                                                    Scholarship
                                                 </a>
                                             </li>
                                             <li>
@@ -180,7 +180,7 @@ require 'header.php';
                                         tution, accomodation and basic medical care. The scholarship does not include
                                         personal expenses and travel costs.</p>
 
-                                    <p>Please find below the administration Fee and estimate expenses.</p>
+                                    <p>Please find below the fees and estimated expenses.</p>
 
                                 </div>
 
@@ -282,7 +282,7 @@ require 'header.php';
                                                     <table>
                                                         <tbody>
                                                             <tr>
-                                                                <td colspan="2">Administration Fee (including textbooks)</td>
+                                                                <td colspan="2">Administration Fee (Including Textbooks)</td>
                                                                 <td colspan="">GHS 645</td>
                                                             </tr>
                                                             <tr>
@@ -294,11 +294,11 @@ require 'header.php';
                                                             </tr>
                                                             <tr>
                                                                 <td colspan="2">Estimated Personal Expenses<br />
-                                                                    (food, toiletries, etc)</td>
+                                                                    (Food, Toiletries etc)</td>
                                                                 <td colspan="">Per Usage</td>
                                                             </tr>
                                                             <tr>
-                                                                <td colspan="2">Estimated Travel Cost (Arrival, weekly transport)</td>
+                                                                <td colspan="2">Estimated Travel Cost (Arrival, Weekly Transport)</td>
                                                                 <td colspan="">Rates Vary</td>
                                                             </tr>
                                                         </tbody>
@@ -338,7 +338,7 @@ require 'header.php';
                                                     <table>
                                                         <tbody>
                                                             <tr>
-                                                                <td colspan="2">Administration Fee (including textbooks)</td>
+                                                                <td colspan="2">Administration Fee (Including Textbooks)</td>
                                                                 <td>$235 (USD)</td>
                                                             </tr>
                                                             <tr>
@@ -354,11 +354,11 @@ require 'header.php';
                                                             </tr>
                                                             <tr>
                                                                 <td colspan="2">Estimated Personal Expenses<br />
-                                                                    (food, toiletries etc)</td>
+                                                                    (Food, Toiletries etc)</td>
                                                                 <td colspan="">Per Usage</td>
                                                             </tr>
                                                             <tr>
-                                                                <td colspan="2">Estimated Travel Cost (Flight, weekly transport)</td>
+                                                                <td colspan="2">Estimated Travel Cost (Flight/Weekly Transport etc)</td>
                                                                 <td colspan="">Rates Vary</td>
                                                             </tr>
                                                         </tbody>

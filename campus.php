@@ -79,7 +79,7 @@ require 'header.php';
                                             </li>
                                             <li>
                                                 <a class="js-smooth-anchor" href="#prayer-garden">
-                                                    100% Answered Prayer Garden
+                                                    100% Answered Prayer Gardens
                                                 </a>
                                             </li>
                                             <li>
@@ -125,7 +125,7 @@ require 'header.php';
 
 
                                     <p>Welcome to the beautful campus of Anagkazo Bible and Ministry Training Center.
-                                        Set in the heart of the Akwapim Mountains, we provide yuo with a quiet and
+                                        Set in the heart of the Akwapim Mountains, we provide you with a quiet and
                                         tranquil environment to study, pray and seek God.</p>
 
                                 </div>
@@ -559,9 +559,9 @@ require 'header.php';
                                             </h2>
                                             <div class="m-media-grid__subtitle">
 
-                                                To make an enquiry about having a Retreat, Camp, Conference, Wedding, Golf Game or Tour Please contact:
-                                                <p>
-                                                    +233501068968 <br> anagkazocampus@gmail.com
+                                                To make an enquiry about having a Retreat, Camp, Conference, Wedding, Golf Game or Tour please contact:
+                                                <p> <br>
+                                                    +233501068968 <br><br> anagkazocampus@gmail.com
                                                 </p>
                                             </div>
                                             
